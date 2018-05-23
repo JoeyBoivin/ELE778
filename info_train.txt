@@ -1,0 +1,2680 @@
+57 /ELE778_MLP/txt_dist/train/man/ha/8b.txt
+
+59 /ELE778_MLP/txt_dist/train/man/ha/4a.txt
+
+59 /ELE778_MLP/txt_dist/train/man/ha/ob.txt
+
+61 /ELE778_MLP/txt_dist/train/man/aj/2b.txt
+
+61 /ELE778_MLP/txt_dist/train/man/it/2b.txt
+
+62 /ELE778_MLP/txt_dist/train/man/aj/1b.txt
+
+62 /ELE778_MLP/txt_dist/train/man/ha/2b.txt
+
+62 /ELE778_MLP/txt_dist/train/woman/eg/8b.txt
+
+63 /ELE778_MLP/txt_dist/train/man/ha/oa.txt
+
+65 /ELE778_MLP/txt_dist/train/man/aj/1a.txt
+
+65 /ELE778_MLP/txt_dist/train/man/aj/3b.txt
+
+65 /ELE778_MLP/txt_dist/train/man/ha/4b.txt
+
+65 /ELE778_MLP/txt_dist/train/man/it/2a.txt
+
+66 /ELE778_MLP/txt_dist/train/man/ha/2a.txt
+
+66 /ELE778_MLP/txt_dist/train/man/ha/9b.txt
+
+66 /ELE778_MLP/txt_dist/train/man/it/oa.txt
+
+66 /ELE778_MLP/txt_dist/train/woman/eg/ob.txt
+
+67 /ELE778_MLP/txt_dist/train/man/aj/8b.txt
+
+67 /ELE778_MLP/txt_dist/train/man/el/8b.txt
+
+67 /ELE778_MLP/txt_dist/train/man/ha/3b.txt
+
+67 /ELE778_MLP/txt_dist/train/woman/ec/4b.txt
+
+67 /ELE778_MLP/txt_dist/train/woman/eg/8a.txt
+
+68 /ELE778_MLP/txt_dist/train/man/aj/4b.txt
+
+68 /ELE778_MLP/txt_dist/train/man/aj/8a.txt
+
+68 /ELE778_MLP/txt_dist/train/man/fj/8b.txt
+
+68 /ELE778_MLP/txt_dist/train/man/it/5b.txt
+
+68 /ELE778_MLP/txt_dist/train/man/it/7b.txt
+
+68 /ELE778_MLP/txt_dist/train/man/it/8a.txt
+
+68 /ELE778_MLP/txt_dist/train/man/it/8b.txt
+
+68 /ELE778_MLP/txt_dist/train/woman/ac/2a.txt
+
+68 /ELE778_MLP/txt_dist/train/woman/dc/2b.txt
+
+68 /ELE778_MLP/txt_dist/train/woman/ec/oa.txt
+
+68 /ELE778_MLP/txt_dist/train/woman/eg/1a.txt
+
+70 /ELE778_MLP/txt_dist/train/man/aj/oa.txt
+
+70 /ELE778_MLP/txt_dist/train/man/cr/2a.txt
+
+70 /ELE778_MLP/txt_dist/train/man/it/9a.txt
+
+70 /ELE778_MLP/txt_dist/train/man/it/ob.txt
+
+70 /ELE778_MLP/txt_dist/train/man/jr/ob.txt
+
+70 /ELE778_MLP/txt_dist/train/woman/ac/3a.txt
+
+70 /ELE778_MLP/txt_dist/train/woman/ac/8b.txt
+
+71 /ELE778_MLP/txt_dist/train/man/aj/3a.txt
+
+71 /ELE778_MLP/txt_dist/train/man/aw/oa.txt
+
+71 /ELE778_MLP/txt_dist/train/man/cb/8b.txt
+
+71 /ELE778_MLP/txt_dist/train/man/eh/2b.txt
+
+71 /ELE778_MLP/txt_dist/train/man/ff/2b.txt
+
+71 /ELE778_MLP/txt_dist/train/man/ff/oa.txt
+
+71 /ELE778_MLP/txt_dist/train/man/gj/2a.txt
+
+71 /ELE778_MLP/txt_dist/train/man/ha/5b.txt
+
+71 /ELE778_MLP/txt_dist/train/man/ha/9a.txt
+
+71 /ELE778_MLP/txt_dist/train/man/hn/oa.txt
+
+71 /ELE778_MLP/txt_dist/train/man/it/1a.txt
+
+71 /ELE778_MLP/txt_dist/train/man/it/3b.txt
+
+71 /ELE778_MLP/txt_dist/train/woman/dc/8b.txt
+
+71 /ELE778_MLP/txt_dist/train/woman/ee/2a.txt
+
+72 /ELE778_MLP/txt_dist/train/man/aj/2a.txt
+
+72 /ELE778_MLP/txt_dist/train/man/bd/8b.txt
+
+72 /ELE778_MLP/txt_dist/train/man/cf/2b.txt
+
+72 /ELE778_MLP/txt_dist/train/man/eh/2a.txt
+
+72 /ELE778_MLP/txt_dist/train/man/ff/ob.txt
+
+72 /ELE778_MLP/txt_dist/train/man/fj/2b.txt
+
+72 /ELE778_MLP/txt_dist/train/man/fk/8a.txt
+
+72 /ELE778_MLP/txt_dist/train/man/fl/oa.txt
+
+72 /ELE778_MLP/txt_dist/train/man/gj/3a.txt
+
+72 /ELE778_MLP/txt_dist/train/man/gj/ob.txt
+
+72 /ELE778_MLP/txt_dist/train/man/ha/8a.txt
+
+72 /ELE778_MLP/txt_dist/train/man/hh/2b.txt
+
+72 /ELE778_MLP/txt_dist/train/man/hs/2a.txt
+
+72 /ELE778_MLP/txt_dist/train/man/hs/2b.txt
+
+72 /ELE778_MLP/txt_dist/train/man/it/4b.txt
+
+72 /ELE778_MLP/txt_dist/train/woman/ea/8b.txt
+
+72 /ELE778_MLP/txt_dist/train/woman/ec/4a.txt
+
+72 /ELE778_MLP/txt_dist/train/woman/eg/5a.txt
+
+72 /ELE778_MLP/txt_dist/train/woman/eg/oa.txt
+
+74 /ELE778_MLP/txt_dist/train/man/eh/oa.txt
+
+74 /ELE778_MLP/txt_dist/train/man/fd/3a.txt
+
+74 /ELE778_MLP/txt_dist/train/man/fj/2a.txt
+
+74 /ELE778_MLP/txt_dist/train/man/gj/1b.txt
+
+74 /ELE778_MLP/txt_dist/train/man/gj/9b.txt
+
+74 /ELE778_MLP/txt_dist/train/man/gr/8a.txt
+
+74 /ELE778_MLP/txt_dist/train/man/ha/1b.txt
+
+74 /ELE778_MLP/txt_dist/train/man/in/ob.txt
+
+74 /ELE778_MLP/txt_dist/train/woman/ac/1a.txt
+
+74 /ELE778_MLP/txt_dist/train/woman/ac/1b.txt
+
+74 /ELE778_MLP/txt_dist/train/woman/ac/ob.txt
+
+74 /ELE778_MLP/txt_dist/train/woman/bi/2b.txt
+
+74 /ELE778_MLP/txt_dist/train/woman/ec/1b.txt
+
+74 /ELE778_MLP/txt_dist/train/woman/ek/2a.txt
+
+74 /ELE778_MLP/txt_dist/train/woman/hg/8b.txt
+
+74 /ELE778_MLP/txt_dist/train/woman/il/8b.txt
+
+74 /ELE778_MLP/txt_dist/train/woman/ji/8b.txt
+
+74 /ELE778_MLP/txt_dist/train/woman/jj/1a.txt
+
+75 /ELE778_MLP/txt_dist/train/man/aj/7a.txt
+
+75 /ELE778_MLP/txt_dist/train/man/cb/8a.txt
+
+75 /ELE778_MLP/txt_dist/train/man/fc/ob.txt
+
+75 /ELE778_MLP/txt_dist/train/man/gj/9a.txt
+
+75 /ELE778_MLP/txt_dist/train/man/hh/3a.txt
+
+75 /ELE778_MLP/txt_dist/train/man/hh/9a.txt
+
+75 /ELE778_MLP/txt_dist/train/man/it/1b.txt
+
+75 /ELE778_MLP/txt_dist/train/man/it/4a.txt
+
+75 /ELE778_MLP/txt_dist/train/man/it/5a.txt
+
+75 /ELE778_MLP/txt_dist/train/man/it/7a.txt
+
+75 /ELE778_MLP/txt_dist/train/woman/bi/8b.txt
+
+75 /ELE778_MLP/txt_dist/train/woman/bi/oa.txt
+
+75 /ELE778_MLP/txt_dist/train/woman/dc/oa.txt
+
+75 /ELE778_MLP/txt_dist/train/woman/ea/8a.txt
+
+75 /ELE778_MLP/txt_dist/train/woman/eg/9a.txt
+
+75 /ELE778_MLP/txt_dist/train/woman/hp/2b.txt
+
+75 /ELE778_MLP/txt_dist/train/woman/jn/2a.txt
+
+76 /ELE778_MLP/txt_dist/train/man/ae/2a.txt
+
+76 /ELE778_MLP/txt_dist/train/man/aj/4a.txt
+
+76 /ELE778_MLP/txt_dist/train/man/bd/2b.txt
+
+76 /ELE778_MLP/txt_dist/train/man/cf/1a.txt
+
+76 /ELE778_MLP/txt_dist/train/man/cf/oa.txt
+
+76 /ELE778_MLP/txt_dist/train/man/cr/8b.txt
+
+76 /ELE778_MLP/txt_dist/train/man/dl/oa.txt
+
+76 /ELE778_MLP/txt_dist/train/man/gj/2b.txt
+
+76 /ELE778_MLP/txt_dist/train/man/ha/1a.txt
+
+76 /ELE778_MLP/txt_dist/train/man/ha/5a.txt
+
+76 /ELE778_MLP/txt_dist/train/man/ha/7b.txt
+
+76 /ELE778_MLP/txt_dist/train/man/hs/1b.txt
+
+76 /ELE778_MLP/txt_dist/train/man/jr/1a.txt
+
+76 /ELE778_MLP/txt_dist/train/woman/ag/8a.txt
+
+76 /ELE778_MLP/txt_dist/train/woman/ag/8b.txt
+
+76 /ELE778_MLP/txt_dist/train/woman/ee/ob.txt
+
+76 /ELE778_MLP/txt_dist/train/woman/ek/4b.txt
+
+76 /ELE778_MLP/txt_dist/train/woman/il/2a.txt
+
+76 /ELE778_MLP/txt_dist/train/woman/kh/1a.txt
+
+76 /ELE778_MLP/txt_dist/train/woman/kk/ob.txt
+
+77 /ELE778_MLP/txt_dist/train/man/cr/3a.txt
+
+77 /ELE778_MLP/txt_dist/train/man/dl/8a.txt
+
+77 /ELE778_MLP/txt_dist/train/man/dl/ob.txt
+
+77 /ELE778_MLP/txt_dist/train/man/eh/3a.txt
+
+77 /ELE778_MLP/txt_dist/train/man/el/2a.txt
+
+77 /ELE778_MLP/txt_dist/train/man/fc/2a.txt
+
+77 /ELE778_MLP/txt_dist/train/man/fd/3b.txt
+
+77 /ELE778_MLP/txt_dist/train/man/ff/3b.txt
+
+77 /ELE778_MLP/txt_dist/train/man/gt/1b.txt
+
+77 /ELE778_MLP/txt_dist/train/man/gt/8b.txt
+
+77 /ELE778_MLP/txt_dist/train/man/if/1a.txt
+
+77 /ELE778_MLP/txt_dist/train/man/if/8a.txt
+
+77 /ELE778_MLP/txt_dist/train/man/if/8b.txt
+
+77 /ELE778_MLP/txt_dist/train/man/in/1a.txt
+
+77 /ELE778_MLP/txt_dist/train/man/in/8b.txt
+
+77 /ELE778_MLP/txt_dist/train/man/jr/3a.txt
+
+77 /ELE778_MLP/txt_dist/train/woman/ac/3b.txt
+
+77 /ELE778_MLP/txt_dist/train/woman/ai/1a.txt
+
+77 /ELE778_MLP/txt_dist/train/woman/cg/8b.txt
+
+77 /ELE778_MLP/txt_dist/train/woman/dg/2a.txt
+
+77 /ELE778_MLP/txt_dist/train/woman/ec/2b.txt
+
+77 /ELE778_MLP/txt_dist/train/woman/eg/4b.txt
+
+77 /ELE778_MLP/txt_dist/train/woman/ek/1b.txt
+
+77 /ELE778_MLP/txt_dist/train/woman/ek/2b.txt
+
+77 /ELE778_MLP/txt_dist/train/woman/hp/1b.txt
+
+77 /ELE778_MLP/txt_dist/train/woman/jj/oa.txt
+
+77 /ELE778_MLP/txt_dist/train/woman/jn/4b.txt
+
+77 /ELE778_MLP/txt_dist/train/woman/jn/8b.txt
+
+77 /ELE778_MLP/txt_dist/train/woman/jn/ob.txt
+
+77 /ELE778_MLP/txt_dist/train/woman/kh/2b.txt
+
+79 /ELE778_MLP/txt_dist/train/man/ae/8a.txt
+
+79 /ELE778_MLP/txt_dist/train/man/cb/5b.txt
+
+79 /ELE778_MLP/txt_dist/train/man/cf/1b.txt
+
+79 /ELE778_MLP/txt_dist/train/man/cf/4a.txt
+
+79 /ELE778_MLP/txt_dist/train/man/cf/8b.txt
+
+79 /ELE778_MLP/txt_dist/train/man/dl/2b.txt
+
+79 /ELE778_MLP/txt_dist/train/man/dl/8b.txt
+
+79 /ELE778_MLP/txt_dist/train/man/el/2b.txt
+
+79 /ELE778_MLP/txt_dist/train/man/el/4a.txt
+
+79 /ELE778_MLP/txt_dist/train/man/el/oa.txt
+
+79 /ELE778_MLP/txt_dist/train/man/ff/2a.txt
+
+79 /ELE778_MLP/txt_dist/train/man/ff/4b.txt
+
+79 /ELE778_MLP/txt_dist/train/man/ff/7b.txt
+
+79 /ELE778_MLP/txt_dist/train/man/ff/8a.txt
+
+79 /ELE778_MLP/txt_dist/train/man/ff/8b.txt
+
+79 /ELE778_MLP/txt_dist/train/man/fj/4a.txt
+
+79 /ELE778_MLP/txt_dist/train/man/fl/1a.txt
+
+79 /ELE778_MLP/txt_dist/train/man/gg/3b.txt
+
+79 /ELE778_MLP/txt_dist/train/man/gj/4b.txt
+
+79 /ELE778_MLP/txt_dist/train/man/jr/9b.txt
+
+79 /ELE778_MLP/txt_dist/train/woman/ag/oa.txt
+
+79 /ELE778_MLP/txt_dist/train/woman/ai/2a.txt
+
+79 /ELE778_MLP/txt_dist/train/woman/cg/oa.txt
+
+79 /ELE778_MLP/txt_dist/train/woman/dc/4a.txt
+
+79 /ELE778_MLP/txt_dist/train/woman/ec/3b.txt
+
+79 /ELE778_MLP/txt_dist/train/woman/ee/oa.txt
+
+79 /ELE778_MLP/txt_dist/train/woman/ek/oa.txt
+
+79 /ELE778_MLP/txt_dist/train/woman/il/3a.txt
+
+79 /ELE778_MLP/txt_dist/train/woman/ji/oa.txt
+
+79 /ELE778_MLP/txt_dist/train/woman/kh/ob.txt
+
+79 /ELE778_MLP/txt_dist/train/woman/kk/2b.txt
+
+79 /ELE778_MLP/txt_dist/train/woman/kk/3b.txt
+
+80 /ELE778_MLP/txt_dist/train/man/ae/2b.txt
+
+80 /ELE778_MLP/txt_dist/train/man/ae/ob.txt
+
+80 /ELE778_MLP/txt_dist/train/man/aj/9b.txt
+
+80 /ELE778_MLP/txt_dist/train/man/el/5a.txt
+
+80 /ELE778_MLP/txt_dist/train/man/el/5b.txt
+
+80 /ELE778_MLP/txt_dist/train/man/ff/7a.txt
+
+80 /ELE778_MLP/txt_dist/train/man/fj/1b.txt
+
+80 /ELE778_MLP/txt_dist/train/man/fl/ob.txt
+
+80 /ELE778_MLP/txt_dist/train/man/gg/8b.txt
+
+80 /ELE778_MLP/txt_dist/train/man/hh/9b.txt
+
+80 /ELE778_MLP/txt_dist/train/man/hn/2a.txt
+
+80 /ELE778_MLP/txt_dist/train/man/hs/3b.txt
+
+80 /ELE778_MLP/txt_dist/train/woman/ac/9a.txt
+
+80 /ELE778_MLP/txt_dist/train/woman/ag/ob.txt
+
+80 /ELE778_MLP/txt_dist/train/woman/ai/1b.txt
+
+80 /ELE778_MLP/txt_dist/train/woman/bi/1b.txt
+
+80 /ELE778_MLP/txt_dist/train/woman/cg/2b.txt
+
+80 /ELE778_MLP/txt_dist/train/woman/cg/4a.txt
+
+80 /ELE778_MLP/txt_dist/train/woman/cg/5b.txt
+
+80 /ELE778_MLP/txt_dist/train/woman/dg/2b.txt
+
+80 /ELE778_MLP/txt_dist/train/woman/ea/3a.txt
+
+80 /ELE778_MLP/txt_dist/train/woman/ea/ob.txt
+
+80 /ELE778_MLP/txt_dist/train/woman/ec/5b.txt
+
+80 /ELE778_MLP/txt_dist/train/woman/eg/2b.txt
+
+80 /ELE778_MLP/txt_dist/train/woman/il/oa.txt
+
+80 /ELE778_MLP/txt_dist/train/woman/jc/4b.txt
+
+80 /ELE778_MLP/txt_dist/train/woman/jc/oa.txt
+
+80 /ELE778_MLP/txt_dist/train/woman/jn/5b.txt
+
+80 /ELE778_MLP/txt_dist/train/woman/kh/3a.txt
+
+80 /ELE778_MLP/txt_dist/train/woman/kk/1a.txt
+
+80 /ELE778_MLP/txt_dist/train/woman/kk/5a.txt
+
+81 /ELE778_MLP/txt_dist/train/man/aj/5b.txt
+
+81 /ELE778_MLP/txt_dist/train/man/aj/7b.txt
+
+81 /ELE778_MLP/txt_dist/train/man/cr/8a.txt
+
+81 /ELE778_MLP/txt_dist/train/man/cr/oa.txt
+
+81 /ELE778_MLP/txt_dist/train/man/cr/ob.txt
+
+81 /ELE778_MLP/txt_dist/train/man/dn/ob.txt
+
+81 /ELE778_MLP/txt_dist/train/man/fc/8b.txt
+
+81 /ELE778_MLP/txt_dist/train/man/ff/1b.txt
+
+81 /ELE778_MLP/txt_dist/train/man/fl/9b.txt
+
+81 /ELE778_MLP/txt_dist/train/man/gj/8a.txt
+
+81 /ELE778_MLP/txt_dist/train/man/gt/3b.txt
+
+81 /ELE778_MLP/txt_dist/train/man/hh/1a.txt
+
+81 /ELE778_MLP/txt_dist/train/man/hh/ob.txt
+
+81 /ELE778_MLP/txt_dist/train/man/hl/2b.txt
+
+81 /ELE778_MLP/txt_dist/train/man/hl/8b.txt
+
+81 /ELE778_MLP/txt_dist/train/man/hs/4b.txt
+
+81 /ELE778_MLP/txt_dist/train/man/hs/9a.txt
+
+81 /ELE778_MLP/txt_dist/train/man/in/5a.txt
+
+81 /ELE778_MLP/txt_dist/train/man/in/8a.txt
+
+81 /ELE778_MLP/txt_dist/train/man/jr/4b.txt
+
+81 /ELE778_MLP/txt_dist/train/man/jr/5a.txt
+
+81 /ELE778_MLP/txt_dist/train/man/jr/5b.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/ac/5a.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/ag/2a.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/ag/4b.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/ag/5b.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/ai/2b.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/ai/3a.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/an/2a.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/an/2b.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/dc/4b.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/dg/3a.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/ea/5a.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/ec/2a.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/ec/3a.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/ee/3a.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/ee/5a.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/ee/5b.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/eg/3b.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/ek/3b.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/hp/9a.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/il/5b.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/jc/3a.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/jc/3b.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/jc/4a.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/jc/ob.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/jj/8a.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/jn/2b.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/kh/8b.txt
+
+81 /ELE778_MLP/txt_dist/train/woman/kk/1b.txt
+
+82 /ELE778_MLP/txt_dist/train/man/ae/3a.txt
+
+82 /ELE778_MLP/txt_dist/train/man/ae/8b.txt
+
+82 /ELE778_MLP/txt_dist/train/man/aj/ob.txt
+
+82 /ELE778_MLP/txt_dist/train/man/bd/4a.txt
+
+82 /ELE778_MLP/txt_dist/train/man/bd/5a.txt
+
+82 /ELE778_MLP/txt_dist/train/man/cb/5a.txt
+
+82 /ELE778_MLP/txt_dist/train/man/cb/oa.txt
+
+82 /ELE778_MLP/txt_dist/train/man/cb/ob.txt
+
+82 /ELE778_MLP/txt_dist/train/man/dl/1a.txt
+
+82 /ELE778_MLP/txt_dist/train/man/dl/4a.txt
+
+82 /ELE778_MLP/txt_dist/train/man/el/3a.txt
+
+82 /ELE778_MLP/txt_dist/train/man/el/4b.txt
+
+82 /ELE778_MLP/txt_dist/train/man/el/8a.txt
+
+82 /ELE778_MLP/txt_dist/train/man/fd/8b.txt
+
+82 /ELE778_MLP/txt_dist/train/man/ff/4a.txt
+
+82 /ELE778_MLP/txt_dist/train/man/fl/2a.txt
+
+82 /ELE778_MLP/txt_dist/train/man/fl/2b.txt
+
+82 /ELE778_MLP/txt_dist/train/man/fl/5b.txt
+
+82 /ELE778_MLP/txt_dist/train/man/gt/4b.txt
+
+82 /ELE778_MLP/txt_dist/train/man/gt/8a.txt
+
+82 /ELE778_MLP/txt_dist/train/man/hh/2a.txt
+
+82 /ELE778_MLP/txt_dist/train/man/hl/3a.txt
+
+82 /ELE778_MLP/txt_dist/train/man/hl/3b.txt
+
+82 /ELE778_MLP/txt_dist/train/man/in/3a.txt
+
+82 /ELE778_MLP/txt_dist/train/man/in/4b.txt
+
+82 /ELE778_MLP/txt_dist/train/man/it/3a.txt
+
+82 /ELE778_MLP/txt_dist/train/man/it/9b.txt
+
+82 /ELE778_MLP/txt_dist/train/man/jr/9a.txt
+
+82 /ELE778_MLP/txt_dist/train/woman/ac/8a.txt
+
+82 /ELE778_MLP/txt_dist/train/woman/ag/1a.txt
+
+82 /ELE778_MLP/txt_dist/train/woman/ag/2b.txt
+
+82 /ELE778_MLP/txt_dist/train/woman/ai/oa.txt
+
+82 /ELE778_MLP/txt_dist/train/woman/an/1a.txt
+
+82 /ELE778_MLP/txt_dist/train/woman/an/ob.txt
+
+82 /ELE778_MLP/txt_dist/train/woman/bh/4b.txt
+
+82 /ELE778_MLP/txt_dist/train/woman/bh/oa.txt
+
+82 /ELE778_MLP/txt_dist/train/woman/cg/1b.txt
+
+82 /ELE778_MLP/txt_dist/train/woman/dg/5b.txt
+
+82 /ELE778_MLP/txt_dist/train/woman/ea/2a.txt
+
+82 /ELE778_MLP/txt_dist/train/woman/eg/7b.txt
+
+82 /ELE778_MLP/txt_dist/train/woman/eg/9b.txt
+
+82 /ELE778_MLP/txt_dist/train/woman/ek/4a.txt
+
+82 /ELE778_MLP/txt_dist/train/woman/ek/5b.txt
+
+82 /ELE778_MLP/txt_dist/train/woman/hg/9b.txt
+
+82 /ELE778_MLP/txt_dist/train/woman/il/3b.txt
+
+82 /ELE778_MLP/txt_dist/train/woman/il/8a.txt
+
+82 /ELE778_MLP/txt_dist/train/woman/il/ob.txt
+
+82 /ELE778_MLP/txt_dist/train/woman/jj/2a.txt
+
+84 /ELE778_MLP/txt_dist/train/man/al/2b.txt
+
+84 /ELE778_MLP/txt_dist/train/man/bd/9a.txt
+
+84 /ELE778_MLP/txt_dist/train/man/cf/7a.txt
+
+84 /ELE778_MLP/txt_dist/train/man/cr/1a.txt
+
+84 /ELE778_MLP/txt_dist/train/man/dl/2a.txt
+
+84 /ELE778_MLP/txt_dist/train/man/dn/oa.txt
+
+84 /ELE778_MLP/txt_dist/train/man/fk/oa.txt
+
+84 /ELE778_MLP/txt_dist/train/man/gg/7a.txt
+
+84 /ELE778_MLP/txt_dist/train/man/gg/ob.txt
+
+84 /ELE778_MLP/txt_dist/train/man/gj/7a.txt
+
+84 /ELE778_MLP/txt_dist/train/man/ha/7a.txt
+
+84 /ELE778_MLP/txt_dist/train/man/hh/7a.txt
+
+84 /ELE778_MLP/txt_dist/train/man/hn/1b.txt
+
+84 /ELE778_MLP/txt_dist/train/man/in/4a.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/ag/1b.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/bh/4a.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/bh/8a.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/bi/9a.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/cg/3b.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/cg/4b.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/cm/9b.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/ea/4a.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/ec/1a.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/ec/5a.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/ec/ob.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/ee/8b.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/eg/4a.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/ek/8a.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/es/oa.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/hp/7a.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/il/1a.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/il/1b.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/il/4a.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/il/5a.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/ji/2a.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/jj/3b.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/jp/2b.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/kf/2b.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/kh/3b.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/kh/9a.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/kk/2a.txt
+
+84 /ELE778_MLP/txt_dist/train/woman/kk/oa.txt
+
+85 /ELE778_MLP/txt_dist/train/man/ae/1a.txt
+
+85 /ELE778_MLP/txt_dist/train/man/aj/9a.txt
+
+85 /ELE778_MLP/txt_dist/train/man/cr/1b.txt
+
+85 /ELE778_MLP/txt_dist/train/man/cr/2b.txt
+
+85 /ELE778_MLP/txt_dist/train/man/eh/4b.txt
+
+85 /ELE778_MLP/txt_dist/train/man/el/9a.txt
+
+85 /ELE778_MLP/txt_dist/train/man/fd/9a.txt
+
+85 /ELE778_MLP/txt_dist/train/man/fl/9a.txt
+
+85 /ELE778_MLP/txt_dist/train/man/gg/2a.txt
+
+85 /ELE778_MLP/txt_dist/train/man/gj/1a.txt
+
+85 /ELE778_MLP/txt_dist/train/man/hh/4b.txt
+
+85 /ELE778_MLP/txt_dist/train/man/hn/3b.txt
+
+85 /ELE778_MLP/txt_dist/train/man/hs/7b.txt
+
+85 /ELE778_MLP/txt_dist/train/man/if/5b.txt
+
+85 /ELE778_MLP/txt_dist/train/man/it/6a.txt
+
+85 /ELE778_MLP/txt_dist/train/man/jr/3b.txt
+
+85 /ELE778_MLP/txt_dist/train/man/jr/7b.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/ac/4b.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/ai/3b.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/bh/2b.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/bh/5b.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/bi/4a.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/cg/2a.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/cg/5a.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/cl/8a.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/cl/oa.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/cm/9a.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/ea/2b.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/ea/3b.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/ei/2a.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/ek/7b.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/es/ob.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/hg/2b.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/jc/8a.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/jn/3b.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/jp/oa.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/kh/4a.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/kk/3a.txt
+
+85 /ELE778_MLP/txt_dist/train/woman/kk/4b.txt
+
+86 /ELE778_MLP/txt_dist/train/man/ae/9a.txt
+
+86 /ELE778_MLP/txt_dist/train/man/aj/6b.txt
+
+86 /ELE778_MLP/txt_dist/train/man/bd/1a.txt
+
+86 /ELE778_MLP/txt_dist/train/man/bd/2a.txt
+
+86 /ELE778_MLP/txt_dist/train/man/bd/7b.txt
+
+86 /ELE778_MLP/txt_dist/train/man/cb/2a.txt
+
+86 /ELE778_MLP/txt_dist/train/man/cr/3b.txt
+
+86 /ELE778_MLP/txt_dist/train/man/cr/9a.txt
+
+86 /ELE778_MLP/txt_dist/train/man/cr/9b.txt
+
+86 /ELE778_MLP/txt_dist/train/man/dl/1b.txt
+
+86 /ELE778_MLP/txt_dist/train/man/dl/5b.txt
+
+86 /ELE778_MLP/txt_dist/train/man/dl/9a.txt
+
+86 /ELE778_MLP/txt_dist/train/man/dn/2b.txt
+
+86 /ELE778_MLP/txt_dist/train/man/eh/8a.txt
+
+86 /ELE778_MLP/txt_dist/train/man/el/3b.txt
+
+86 /ELE778_MLP/txt_dist/train/man/fi/1a.txt
+
+86 /ELE778_MLP/txt_dist/train/man/fl/3a.txt
+
+86 /ELE778_MLP/txt_dist/train/man/gg/5b.txt
+
+86 /ELE778_MLP/txt_dist/train/man/gg/9a.txt
+
+86 /ELE778_MLP/txt_dist/train/man/gj/oa.txt
+
+86 /ELE778_MLP/txt_dist/train/man/gr/ob.txt
+
+86 /ELE778_MLP/txt_dist/train/man/gt/7a.txt
+
+86 /ELE778_MLP/txt_dist/train/man/hh/3b.txt
+
+86 /ELE778_MLP/txt_dist/train/man/hh/oa.txt
+
+86 /ELE778_MLP/txt_dist/train/man/hl/8a.txt
+
+86 /ELE778_MLP/txt_dist/train/man/hn/7b.txt
+
+86 /ELE778_MLP/txt_dist/train/man/if/3b.txt
+
+86 /ELE778_MLP/txt_dist/train/man/in/2a.txt
+
+86 /ELE778_MLP/txt_dist/train/man/jr/2a.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/ac/9b.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/ag/3a.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/ag/3b.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/ag/9a.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/ai/8a.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/bh/1b.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/bh/5a.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/bi/3a.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/bi/9b.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/cm/1b.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/dc/2a.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/ea/1a.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/eg/1b.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/ei/2b.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/es/2a.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/es/3a.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/es/8a.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/ih/4b.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/il/7b.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/ji/8a.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/jj/9a.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/jj/9b.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/jn/8a.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/kf/ob.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/kh/5a.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/kk/7a.txt
+
+86 /ELE778_MLP/txt_dist/train/woman/kk/9a.txt
+
+88 /ELE778_MLP/txt_dist/train/man/ae/1b.txt
+
+88 /ELE778_MLP/txt_dist/train/man/ae/4a.txt
+
+88 /ELE778_MLP/txt_dist/train/man/ae/4b.txt
+
+88 /ELE778_MLP/txt_dist/train/man/dl/3a.txt
+
+88 /ELE778_MLP/txt_dist/train/man/eh/7b.txt
+
+88 /ELE778_MLP/txt_dist/train/man/fc/9a.txt
+
+88 /ELE778_MLP/txt_dist/train/man/ff/5b.txt
+
+88 /ELE778_MLP/txt_dist/train/man/fi/5a.txt
+
+88 /ELE778_MLP/txt_dist/train/man/fk/ob.txt
+
+88 /ELE778_MLP/txt_dist/train/man/fl/7a.txt
+
+88 /ELE778_MLP/txt_dist/train/man/gt/7b.txt
+
+88 /ELE778_MLP/txt_dist/train/man/ha/3a.txt
+
+88 /ELE778_MLP/txt_dist/train/man/hh/1b.txt
+
+88 /ELE778_MLP/txt_dist/train/man/hh/5b.txt
+
+88 /ELE778_MLP/txt_dist/train/man/hh/8b.txt
+
+88 /ELE778_MLP/txt_dist/train/man/hs/5b.txt
+
+88 /ELE778_MLP/txt_dist/train/man/hs/oa.txt
+
+88 /ELE778_MLP/txt_dist/train/man/if/9a.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/ac/5b.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/ac/oa.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/ag/9b.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/ai/5a.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/bh/8b.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/br/oa.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/cg/3a.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/ea/5b.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/ea/9b.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/ee/1a.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/es/1b.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/es/2b.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/ih/2b.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/jc/5b.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/ji/2b.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/ji/3b.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/ji/4a.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/jj/1b.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/jn/9b.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/kf/1b.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/kk/4a.txt
+
+88 /ELE778_MLP/txt_dist/train/woman/kk/7b.txt
+
+89 /ELE778_MLP/txt_dist/train/man/bd/3b.txt
+
+89 /ELE778_MLP/txt_dist/train/man/bd/9b.txt
+
+89 /ELE778_MLP/txt_dist/train/man/bd/oa.txt
+
+89 /ELE778_MLP/txt_dist/train/man/cf/5a.txt
+
+89 /ELE778_MLP/txt_dist/train/man/cr/7b.txt
+
+89 /ELE778_MLP/txt_dist/train/man/el/9b.txt
+
+89 /ELE778_MLP/txt_dist/train/man/el/ob.txt
+
+89 /ELE778_MLP/txt_dist/train/man/ff/3a.txt
+
+89 /ELE778_MLP/txt_dist/train/man/ff/5a.txt
+
+89 /ELE778_MLP/txt_dist/train/man/fi/4b.txt
+
+89 /ELE778_MLP/txt_dist/train/man/fl/5a.txt
+
+89 /ELE778_MLP/txt_dist/train/man/gg/2b.txt
+
+89 /ELE778_MLP/txt_dist/train/man/gg/7b.txt
+
+89 /ELE778_MLP/txt_dist/train/man/gr/8b.txt
+
+89 /ELE778_MLP/txt_dist/train/man/gt/9b.txt
+
+89 /ELE778_MLP/txt_dist/train/man/hs/8b.txt
+
+89 /ELE778_MLP/txt_dist/train/man/if/ob.txt
+
+89 /ELE778_MLP/txt_dist/train/man/jr/oa.txt
+
+89 /ELE778_MLP/txt_dist/train/woman/ag/7b.txt
+
+89 /ELE778_MLP/txt_dist/train/woman/ai/4a.txt
+
+89 /ELE778_MLP/txt_dist/train/woman/ai/8b.txt
+
+89 /ELE778_MLP/txt_dist/train/woman/bi/7a.txt
+
+89 /ELE778_MLP/txt_dist/train/woman/cg/9a.txt
+
+89 /ELE778_MLP/txt_dist/train/woman/ea/1b.txt
+
+89 /ELE778_MLP/txt_dist/train/woman/ea/7b.txt
+
+89 /ELE778_MLP/txt_dist/train/woman/ea/9a.txt
+
+89 /ELE778_MLP/txt_dist/train/woman/ei/oa.txt
+
+89 /ELE778_MLP/txt_dist/train/woman/hg/9a.txt
+
+89 /ELE778_MLP/txt_dist/train/woman/il/2b.txt
+
+89 /ELE778_MLP/txt_dist/train/woman/il/9a.txt
+
+89 /ELE778_MLP/txt_dist/train/woman/jc/9a.txt
+
+89 /ELE778_MLP/txt_dist/train/woman/ji/4b.txt
+
+89 /ELE778_MLP/txt_dist/train/woman/jn/4a.txt
+
+89 /ELE778_MLP/txt_dist/train/woman/kf/oa.txt
+
+89 /ELE778_MLP/txt_dist/train/woman/kh/7a.txt
+
+90 /ELE778_MLP/txt_dist/train/man/ae/9b.txt
+
+90 /ELE778_MLP/txt_dist/train/man/ae/oa.txt
+
+90 /ELE778_MLP/txt_dist/train/man/aj/6a.txt
+
+90 /ELE778_MLP/txt_dist/train/man/al/8b.txt
+
+90 /ELE778_MLP/txt_dist/train/man/aw/2b.txt
+
+90 /ELE778_MLP/txt_dist/train/man/aw/4a.txt
+
+90 /ELE778_MLP/txt_dist/train/man/bd/1b.txt
+
+90 /ELE778_MLP/txt_dist/train/man/cf/8a.txt
+
+90 /ELE778_MLP/txt_dist/train/man/dl/9b.txt
+
+90 /ELE778_MLP/txt_dist/train/man/eh/3b.txt
+
+90 /ELE778_MLP/txt_dist/train/man/eh/9a.txt
+
+90 /ELE778_MLP/txt_dist/train/man/ff/9a.txt
+
+90 /ELE778_MLP/txt_dist/train/man/ff/9b.txt
+
+90 /ELE778_MLP/txt_dist/train/man/fi/oa.txt
+
+90 /ELE778_MLP/txt_dist/train/man/fk/8b.txt
+
+90 /ELE778_MLP/txt_dist/train/man/fl/3b.txt
+
+90 /ELE778_MLP/txt_dist/train/man/fl/8b.txt
+
+90 /ELE778_MLP/txt_dist/train/man/gt/5b.txt
+
+90 /ELE778_MLP/txt_dist/train/man/gt/ob.txt
+
+90 /ELE778_MLP/txt_dist/train/man/hl/5a.txt
+
+90 /ELE778_MLP/txt_dist/train/man/hl/9b.txt
+
+90 /ELE778_MLP/txt_dist/train/man/hn/2b.txt
+
+90 /ELE778_MLP/txt_dist/train/man/hn/4a.txt
+
+90 /ELE778_MLP/txt_dist/train/man/ie/8b.txt
+
+90 /ELE778_MLP/txt_dist/train/man/in/7a.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/ac/7b.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/ag/4a.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/ai/7a.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/ai/7b.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/an/oa.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/bh/9b.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/cg/9b.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/cl/1b.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/ea/oa.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/ee/1b.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/ei/ob.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/es/1a.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/es/3b.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/hp/2a.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/ih/4a.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/il/6b.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/il/7a.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/ji/9b.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/jj/4b.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/jj/7a.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/jp/1a.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/jp/1b.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/kh/1b.txt
+
+90 /ELE778_MLP/txt_dist/train/woman/kk/8a.txt
+
+91 /ELE778_MLP/txt_dist/train/man/aj/5a.txt
+
+91 /ELE778_MLP/txt_dist/train/man/al/2a.txt
+
+91 /ELE778_MLP/txt_dist/train/man/al/ob.txt
+
+91 /ELE778_MLP/txt_dist/train/man/aw/2a.txt
+
+91 /ELE778_MLP/txt_dist/train/man/cf/2a.txt
+
+91 /ELE778_MLP/txt_dist/train/man/cf/4b.txt
+
+91 /ELE778_MLP/txt_dist/train/man/dl/4b.txt
+
+91 /ELE778_MLP/txt_dist/train/man/eh/5b.txt
+
+91 /ELE778_MLP/txt_dist/train/man/eh/9b.txt
+
+91 /ELE778_MLP/txt_dist/train/man/el/7a.txt
+
+91 /ELE778_MLP/txt_dist/train/man/fc/4b.txt
+
+91 /ELE778_MLP/txt_dist/train/man/fj/9b.txt
+
+91 /ELE778_MLP/txt_dist/train/man/fj/oa.txt
+
+91 /ELE778_MLP/txt_dist/train/man/fl/1b.txt
+
+91 /ELE778_MLP/txt_dist/train/man/gg/oa.txt
+
+91 /ELE778_MLP/txt_dist/train/man/gj/5b.txt
+
+91 /ELE778_MLP/txt_dist/train/man/gt/2b.txt
+
+91 /ELE778_MLP/txt_dist/train/man/hh/4a.txt
+
+91 /ELE778_MLP/txt_dist/train/man/hn/6a.txt
+
+91 /ELE778_MLP/txt_dist/train/man/if/2b.txt
+
+91 /ELE778_MLP/txt_dist/train/man/if/3a.txt
+
+91 /ELE778_MLP/txt_dist/train/man/jr/1b.txt
+
+91 /ELE778_MLP/txt_dist/train/woman/ac/2b.txt
+
+91 /ELE778_MLP/txt_dist/train/woman/ag/5a.txt
+
+91 /ELE778_MLP/txt_dist/train/woman/ai/4b.txt
+
+91 /ELE778_MLP/txt_dist/train/woman/ai/9a.txt
+
+91 /ELE778_MLP/txt_dist/train/woman/bi/4b.txt
+
+91 /ELE778_MLP/txt_dist/train/woman/br/2b.txt
+
+91 /ELE778_MLP/txt_dist/train/woman/br/ob.txt
+
+91 /ELE778_MLP/txt_dist/train/woman/cg/8a.txt
+
+91 /ELE778_MLP/txt_dist/train/woman/dc/3a.txt
+
+91 /ELE778_MLP/txt_dist/train/woman/dc/ob.txt
+
+91 /ELE778_MLP/txt_dist/train/woman/eg/5b.txt
+
+91 /ELE778_MLP/txt_dist/train/woman/eg/6b.txt
+
+91 /ELE778_MLP/txt_dist/train/woman/ei/3a.txt
+
+91 /ELE778_MLP/txt_dist/train/woman/jc/1b.txt
+
+91 /ELE778_MLP/txt_dist/train/woman/jc/5a.txt
+
+91 /ELE778_MLP/txt_dist/train/woman/jn/5a.txt
+
+91 /ELE778_MLP/txt_dist/train/woman/jp/2a.txt
+
+91 /ELE778_MLP/txt_dist/train/woman/kf/2a.txt
+
+91 /ELE778_MLP/txt_dist/train/woman/kh/oa.txt
+
+93 /ELE778_MLP/txt_dist/train/man/ae/3b.txt
+
+93 /ELE778_MLP/txt_dist/train/man/al/3a.txt
+
+93 /ELE778_MLP/txt_dist/train/man/cb/3b.txt
+
+93 /ELE778_MLP/txt_dist/train/man/dn/8b.txt
+
+93 /ELE778_MLP/txt_dist/train/man/eh/1b.txt
+
+93 /ELE778_MLP/txt_dist/train/man/fi/2b.txt
+
+93 /ELE778_MLP/txt_dist/train/man/fl/8a.txt
+
+93 /ELE778_MLP/txt_dist/train/man/gj/3b.txt
+
+93 /ELE778_MLP/txt_dist/train/man/gt/1a.txt
+
+93 /ELE778_MLP/txt_dist/train/man/hn/9a.txt
+
+93 /ELE778_MLP/txt_dist/train/man/hs/1a.txt
+
+93 /ELE778_MLP/txt_dist/train/man/hs/ob.txt
+
+93 /ELE778_MLP/txt_dist/train/man/jr/2b.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/bh/9a.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/bi/ob.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/ca/1a.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/cg/7a.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/cl/1a.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/cl/3b.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/dg/4b.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/eg/3a.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/eg/6a.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/ei/3b.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/ek/ob.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/es/4b.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/hg/3a.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/ig/8a.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/jc/1a.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/ji/ob.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/jj/ob.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/jp/3a.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/jp/8b.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/jp/ob.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/kh/5b.txt
+
+93 /ELE778_MLP/txt_dist/train/woman/kk/5b.txt
+
+94 /ELE778_MLP/txt_dist/train/man/al/3b.txt
+
+94 /ELE778_MLP/txt_dist/train/man/al/oa.txt
+
+94 /ELE778_MLP/txt_dist/train/man/aw/9a.txt
+
+94 /ELE778_MLP/txt_dist/train/man/aw/ob.txt
+
+94 /ELE778_MLP/txt_dist/train/man/bd/5b.txt
+
+94 /ELE778_MLP/txt_dist/train/man/bd/7a.txt
+
+94 /ELE778_MLP/txt_dist/train/man/cf/3b.txt
+
+94 /ELE778_MLP/txt_dist/train/man/cr/4a.txt
+
+94 /ELE778_MLP/txt_dist/train/man/cr/6b.txt
+
+94 /ELE778_MLP/txt_dist/train/man/dn/3b.txt
+
+94 /ELE778_MLP/txt_dist/train/man/eh/7a.txt
+
+94 /ELE778_MLP/txt_dist/train/man/el/6b.txt
+
+94 /ELE778_MLP/txt_dist/train/man/el/7b.txt
+
+94 /ELE778_MLP/txt_dist/train/man/fd/8a.txt
+
+94 /ELE778_MLP/txt_dist/train/man/ff/6b.txt
+
+94 /ELE778_MLP/txt_dist/train/man/fi/9b.txt
+
+94 /ELE778_MLP/txt_dist/train/man/fj/8a.txt
+
+94 /ELE778_MLP/txt_dist/train/man/hh/6a.txt
+
+94 /ELE778_MLP/txt_dist/train/man/hn/5a.txt
+
+94 /ELE778_MLP/txt_dist/train/man/hs/9b.txt
+
+94 /ELE778_MLP/txt_dist/train/woman/ca/4b.txt
+
+94 /ELE778_MLP/txt_dist/train/woman/dc/1b.txt
+
+94 /ELE778_MLP/txt_dist/train/woman/ec/9a.txt
+
+94 /ELE778_MLP/txt_dist/train/woman/ei/1b.txt
+
+94 /ELE778_MLP/txt_dist/train/woman/ei/5a.txt
+
+94 /ELE778_MLP/txt_dist/train/woman/ei/8a.txt
+
+94 /ELE778_MLP/txt_dist/train/woman/es/5b.txt
+
+94 /ELE778_MLP/txt_dist/train/woman/es/9b.txt
+
+94 /ELE778_MLP/txt_dist/train/woman/hp/1a.txt
+
+94 /ELE778_MLP/txt_dist/train/woman/hp/oa.txt
+
+94 /ELE778_MLP/txt_dist/train/woman/ig/ob.txt
+
+94 /ELE778_MLP/txt_dist/train/woman/ih/8b.txt
+
+94 /ELE778_MLP/txt_dist/train/woman/il/9b.txt
+
+94 /ELE778_MLP/txt_dist/train/woman/jj/3a.txt
+
+94 /ELE778_MLP/txt_dist/train/woman/jn/1b.txt
+
+95 /ELE778_MLP/txt_dist/train/man/al/1a.txt
+
+95 /ELE778_MLP/txt_dist/train/man/aw/7b.txt
+
+95 /ELE778_MLP/txt_dist/train/man/cb/1b.txt
+
+95 /ELE778_MLP/txt_dist/train/man/cb/2b.txt
+
+95 /ELE778_MLP/txt_dist/train/man/cf/6b.txt
+
+95 /ELE778_MLP/txt_dist/train/man/cf/7b.txt
+
+95 /ELE778_MLP/txt_dist/train/man/cr/4b.txt
+
+95 /ELE778_MLP/txt_dist/train/man/cr/5a.txt
+
+95 /ELE778_MLP/txt_dist/train/man/dl/7b.txt
+
+95 /ELE778_MLP/txt_dist/train/man/fd/9b.txt
+
+95 /ELE778_MLP/txt_dist/train/man/fi/8b.txt
+
+95 /ELE778_MLP/txt_dist/train/man/fk/2a.txt
+
+95 /ELE778_MLP/txt_dist/train/man/gj/8b.txt
+
+95 /ELE778_MLP/txt_dist/train/man/gt/2a.txt
+
+95 /ELE778_MLP/txt_dist/train/man/in/2b.txt
+
+95 /ELE778_MLP/txt_dist/train/man/in/3b.txt
+
+95 /ELE778_MLP/txt_dist/train/man/it/6b.txt
+
+95 /ELE778_MLP/txt_dist/train/man/jr/7a.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/ac/6a.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/bi/1a.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/ca/ob.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/cg/ob.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/cm/oa.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/dc/3b.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/dg/1b.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/dg/9a.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/ea/4b.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/ea/6a.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/ee/3b.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/ei/1a.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/ei/9a.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/ek/1a.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/es/8b.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/es/9a.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/hg/1a.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/hg/1b.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/hg/4b.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/hg/5a.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/ig/1a.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/ih/1b.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/jc/7b.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/jn/1a.txt
+
+95 /ELE778_MLP/txt_dist/train/woman/kh/8a.txt
+
+97 /ELE778_MLP/txt_dist/train/man/al/9a.txt
+
+97 /ELE778_MLP/txt_dist/train/man/aw/3a.txt
+
+97 /ELE778_MLP/txt_dist/train/man/aw/4b.txt
+
+97 /ELE778_MLP/txt_dist/train/man/bd/4b.txt
+
+97 /ELE778_MLP/txt_dist/train/man/cf/ob.txt
+
+97 /ELE778_MLP/txt_dist/train/man/dl/7a.txt
+
+97 /ELE778_MLP/txt_dist/train/man/dn/3a.txt
+
+97 /ELE778_MLP/txt_dist/train/man/fc/1a.txt
+
+97 /ELE778_MLP/txt_dist/train/man/fc/8a.txt
+
+97 /ELE778_MLP/txt_dist/train/man/fj/3a.txt
+
+97 /ELE778_MLP/txt_dist/train/man/ha/6a.txt
+
+97 /ELE778_MLP/txt_dist/train/man/hh/8a.txt
+
+97 /ELE778_MLP/txt_dist/train/man/hl/1b.txt
+
+97 /ELE778_MLP/txt_dist/train/man/hl/ob.txt
+
+97 /ELE778_MLP/txt_dist/train/man/hn/6b.txt
+
+97 /ELE778_MLP/txt_dist/train/man/if/4a.txt
+
+97 /ELE778_MLP/txt_dist/train/man/in/9a.txt
+
+97 /ELE778_MLP/txt_dist/train/man/in/oa.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/ai/5b.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/an/4b.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/bh/3b.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/bh/7a.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/ca/2a.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/cg/7b.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/cl/7b.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/ei/5b.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/ek/9b.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/hg/oa.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/ig/2a.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/ig/8b.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/ih/2a.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/ih/8a.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/jc/8b.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/jj/2b.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/jp/4b.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/kf/4a.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/kf/8a.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/kf/8b.txt
+
+97 /ELE778_MLP/txt_dist/train/woman/kh/9b.txt
+
+98 /ELE778_MLP/txt_dist/train/man/ae/5a.txt
+
+98 /ELE778_MLP/txt_dist/train/man/al/4b.txt
+
+98 /ELE778_MLP/txt_dist/train/man/aw/1b.txt
+
+98 /ELE778_MLP/txt_dist/train/man/aw/5b.txt
+
+98 /ELE778_MLP/txt_dist/train/man/aw/8b.txt
+
+98 /ELE778_MLP/txt_dist/train/man/cb/9b.txt
+
+98 /ELE778_MLP/txt_dist/train/man/cf/6a.txt
+
+98 /ELE778_MLP/txt_dist/train/man/cr/6a.txt
+
+98 /ELE778_MLP/txt_dist/train/man/dl/5a.txt
+
+98 /ELE778_MLP/txt_dist/train/man/eh/1a.txt
+
+98 /ELE778_MLP/txt_dist/train/man/fc/3a.txt
+
+98 /ELE778_MLP/txt_dist/train/man/fd/ob.txt
+
+98 /ELE778_MLP/txt_dist/train/man/ff/6a.txt
+
+98 /ELE778_MLP/txt_dist/train/man/fi/7a.txt
+
+98 /ELE778_MLP/txt_dist/train/man/fj/1a.txt
+
+98 /ELE778_MLP/txt_dist/train/man/fj/7a.txt
+
+98 /ELE778_MLP/txt_dist/train/man/fk/1a.txt
+
+98 /ELE778_MLP/txt_dist/train/man/fk/1b.txt
+
+98 /ELE778_MLP/txt_dist/train/man/fl/4b.txt
+
+98 /ELE778_MLP/txt_dist/train/man/gg/6a.txt
+
+98 /ELE778_MLP/txt_dist/train/man/gj/4a.txt
+
+98 /ELE778_MLP/txt_dist/train/man/gt/4a.txt
+
+98 /ELE778_MLP/txt_dist/train/man/hn/4b.txt
+
+98 /ELE778_MLP/txt_dist/train/man/if/2a.txt
+
+98 /ELE778_MLP/txt_dist/train/man/if/7a.txt
+
+98 /ELE778_MLP/txt_dist/train/man/if/oa.txt
+
+98 /ELE778_MLP/txt_dist/train/woman/ac/4a.txt
+
+98 /ELE778_MLP/txt_dist/train/woman/ag/7a.txt
+
+98 /ELE778_MLP/txt_dist/train/woman/bi/5a.txt
+
+98 /ELE778_MLP/txt_dist/train/woman/cm/7b.txt
+
+98 /ELE778_MLP/txt_dist/train/woman/dg/oa.txt
+
+98 /ELE778_MLP/txt_dist/train/woman/ec/9b.txt
+
+98 /ELE778_MLP/txt_dist/train/woman/ee/2b.txt
+
+98 /ELE778_MLP/txt_dist/train/woman/hg/ob.txt
+
+98 /ELE778_MLP/txt_dist/train/woman/hp/8b.txt
+
+98 /ELE778_MLP/txt_dist/train/woman/il/6a.txt
+
+98 /ELE778_MLP/txt_dist/train/woman/jj/4a.txt
+
+98 /ELE778_MLP/txt_dist/train/woman/jj/5a.txt
+
+98 /ELE778_MLP/txt_dist/train/woman/jj/7b.txt
+
+98 /ELE778_MLP/txt_dist/train/woman/jn/9a.txt
+
+98 /ELE778_MLP/txt_dist/train/woman/kf/5b.txt
+
+98 /ELE778_MLP/txt_dist/train/woman/kf/7b.txt
+
+98 /ELE778_MLP/txt_dist/train/woman/kh/2a.txt
+
+99 /ELE778_MLP/txt_dist/train/man/aw/3b.txt
+
+99 /ELE778_MLP/txt_dist/train/man/aw/7a.txt
+
+99 /ELE778_MLP/txt_dist/train/man/cb/7b.txt
+
+99 /ELE778_MLP/txt_dist/train/man/cf/5b.txt
+
+99 /ELE778_MLP/txt_dist/train/man/el/1b.txt
+
+99 /ELE778_MLP/txt_dist/train/man/fd/1a.txt
+
+99 /ELE778_MLP/txt_dist/train/man/fi/2a.txt
+
+99 /ELE778_MLP/txt_dist/train/man/fk/3a.txt
+
+99 /ELE778_MLP/txt_dist/train/man/gj/5a.txt
+
+99 /ELE778_MLP/txt_dist/train/man/gr/2b.txt
+
+99 /ELE778_MLP/txt_dist/train/man/gr/3b.txt
+
+99 /ELE778_MLP/txt_dist/train/man/gr/4a.txt
+
+99 /ELE778_MLP/txt_dist/train/man/gr/oa.txt
+
+99 /ELE778_MLP/txt_dist/train/man/gt/oa.txt
+
+99 /ELE778_MLP/txt_dist/train/man/hl/2a.txt
+
+99 /ELE778_MLP/txt_dist/train/man/hl/4b.txt
+
+99 /ELE778_MLP/txt_dist/train/man/hl/oa.txt
+
+99 /ELE778_MLP/txt_dist/train/man/hn/8b.txt
+
+99 /ELE778_MLP/txt_dist/train/man/ie/2b.txt
+
+99 /ELE778_MLP/txt_dist/train/man/if/4b.txt
+
+99 /ELE778_MLP/txt_dist/train/man/in/5b.txt
+
+99 /ELE778_MLP/txt_dist/train/woman/bh/1a.txt
+
+99 /ELE778_MLP/txt_dist/train/woman/bh/7b.txt
+
+99 /ELE778_MLP/txt_dist/train/woman/bi/7b.txt
+
+99 /ELE778_MLP/txt_dist/train/woman/cg/1a.txt
+
+99 /ELE778_MLP/txt_dist/train/woman/cm/2a.txt
+
+99 /ELE778_MLP/txt_dist/train/woman/ea/6b.txt
+
+99 /ELE778_MLP/txt_dist/train/woman/ei/9b.txt
+
+99 /ELE778_MLP/txt_dist/train/woman/ek/3a.txt
+
+99 /ELE778_MLP/txt_dist/train/woman/hp/3b.txt
+
+99 /ELE778_MLP/txt_dist/train/woman/ig/9a.txt
+
+99 /ELE778_MLP/txt_dist/train/woman/il/4b.txt
+
+99 /ELE778_MLP/txt_dist/train/woman/jc/2b.txt
+
+99 /ELE778_MLP/txt_dist/train/woman/jc/9b.txt
+
+99 /ELE778_MLP/txt_dist/train/woman/ji/5b.txt
+
+99 /ELE778_MLP/txt_dist/train/woman/ji/7b.txt
+
+99 /ELE778_MLP/txt_dist/train/woman/jj/8b.txt
+
+99 /ELE778_MLP/txt_dist/train/woman/jn/3a.txt
+
+99 /ELE778_MLP/txt_dist/train/woman/kc/oa.txt
+
+99 /ELE778_MLP/txt_dist/train/woman/kc/ob.txt
+
+99 /ELE778_MLP/txt_dist/train/woman/kh/4b.txt
+
+100 /ELE778_MLP/txt_dist/train/man/cf/9b.txt
+
+100 /ELE778_MLP/txt_dist/train/man/cr/5b.txt
+
+100 /ELE778_MLP/txt_dist/train/man/cr/7a.txt
+
+100 /ELE778_MLP/txt_dist/train/man/dl/3b.txt
+
+100 /ELE778_MLP/txt_dist/train/man/fd/oa.txt
+
+100 /ELE778_MLP/txt_dist/train/man/fi/3a.txt
+
+100 /ELE778_MLP/txt_dist/train/man/fi/8a.txt
+
+100 /ELE778_MLP/txt_dist/train/man/fi/9a.txt
+
+100 /ELE778_MLP/txt_dist/train/man/fj/ob.txt
+
+100 /ELE778_MLP/txt_dist/train/man/fl/7b.txt
+
+100 /ELE778_MLP/txt_dist/train/man/gg/3a.txt
+
+100 /ELE778_MLP/txt_dist/train/man/gr/1a.txt
+
+100 /ELE778_MLP/txt_dist/train/man/gr/2a.txt
+
+100 /ELE778_MLP/txt_dist/train/man/gr/3a.txt
+
+100 /ELE778_MLP/txt_dist/train/man/hn/7a.txt
+
+100 /ELE778_MLP/txt_dist/train/man/hn/8a.txt
+
+100 /ELE778_MLP/txt_dist/train/man/hs/8a.txt
+
+100 /ELE778_MLP/txt_dist/train/man/ie/ob.txt
+
+100 /ELE778_MLP/txt_dist/train/man/if/5a.txt
+
+100 /ELE778_MLP/txt_dist/train/man/if/6a.txt
+
+100 /ELE778_MLP/txt_dist/train/man/jr/8a.txt
+
+100 /ELE778_MLP/txt_dist/train/woman/ai/9b.txt
+
+100 /ELE778_MLP/txt_dist/train/woman/br/9b.txt
+
+100 /ELE778_MLP/txt_dist/train/woman/ca/3b.txt
+
+100 /ELE778_MLP/txt_dist/train/woman/cl/9a.txt
+
+100 /ELE778_MLP/txt_dist/train/woman/cm/2b.txt
+
+100 /ELE778_MLP/txt_dist/train/woman/dc/7a.txt
+
+100 /ELE778_MLP/txt_dist/train/woman/dc/8a.txt
+
+100 /ELE778_MLP/txt_dist/train/woman/dg/5a.txt
+
+100 /ELE778_MLP/txt_dist/train/woman/ee/9b.txt
+
+100 /ELE778_MLP/txt_dist/train/woman/ei/7b.txt
+
+100 /ELE778_MLP/txt_dist/train/woman/ek/6a.txt
+
+100 /ELE778_MLP/txt_dist/train/woman/hg/7a.txt
+
+100 /ELE778_MLP/txt_dist/train/woman/ih/5b.txt
+
+100 /ELE778_MLP/txt_dist/train/woman/jn/6b.txt
+
+100 /ELE778_MLP/txt_dist/train/woman/jn/oa.txt
+
+100 /ELE778_MLP/txt_dist/train/woman/kk/6a.txt
+
+100 /ELE778_MLP/txt_dist/train/woman/kk/8b.txt
+
+102 /ELE778_MLP/txt_dist/train/man/al/1b.txt
+
+102 /ELE778_MLP/txt_dist/train/man/aw/1a.txt
+
+102 /ELE778_MLP/txt_dist/train/man/bd/8a.txt
+
+102 /ELE778_MLP/txt_dist/train/man/cb/4b.txt
+
+102 /ELE778_MLP/txt_dist/train/man/cf/3a.txt
+
+102 /ELE778_MLP/txt_dist/train/man/dn/4a.txt
+
+102 /ELE778_MLP/txt_dist/train/man/dn/8a.txt
+
+102 /ELE778_MLP/txt_dist/train/man/eh/5a.txt
+
+102 /ELE778_MLP/txt_dist/train/man/eh/6b.txt
+
+102 /ELE778_MLP/txt_dist/train/man/eh/8b.txt
+
+102 /ELE778_MLP/txt_dist/train/man/fd/1b.txt
+
+102 /ELE778_MLP/txt_dist/train/man/fi/1b.txt
+
+102 /ELE778_MLP/txt_dist/train/man/fj/4b.txt
+
+102 /ELE778_MLP/txt_dist/train/man/fk/7a.txt
+
+102 /ELE778_MLP/txt_dist/train/man/fl/4a.txt
+
+102 /ELE778_MLP/txt_dist/train/man/gg/4a.txt
+
+102 /ELE778_MLP/txt_dist/train/man/gg/8a.txt
+
+102 /ELE778_MLP/txt_dist/train/man/hs/7a.txt
+
+102 /ELE778_MLP/txt_dist/train/man/ie/4a.txt
+
+102 /ELE778_MLP/txt_dist/train/man/ie/7a.txt
+
+102 /ELE778_MLP/txt_dist/train/man/in/6a.txt
+
+102 /ELE778_MLP/txt_dist/train/woman/ac/7a.txt
+
+102 /ELE778_MLP/txt_dist/train/woman/an/7a.txt
+
+102 /ELE778_MLP/txt_dist/train/woman/bh/3a.txt
+
+102 /ELE778_MLP/txt_dist/train/woman/bh/6b.txt
+
+102 /ELE778_MLP/txt_dist/train/woman/bi/2a.txt
+
+102 /ELE778_MLP/txt_dist/train/woman/br/3b.txt
+
+102 /ELE778_MLP/txt_dist/train/woman/cm/1a.txt
+
+102 /ELE778_MLP/txt_dist/train/woman/dg/7a.txt
+
+102 /ELE778_MLP/txt_dist/train/woman/ec/6b.txt
+
+102 /ELE778_MLP/txt_dist/train/woman/ee/7b.txt
+
+102 /ELE778_MLP/txt_dist/train/woman/ei/4a.txt
+
+102 /ELE778_MLP/txt_dist/train/woman/ei/7a.txt
+
+102 /ELE778_MLP/txt_dist/train/woman/es/4a.txt
+
+102 /ELE778_MLP/txt_dist/train/woman/hp/4a.txt
+
+102 /ELE778_MLP/txt_dist/train/woman/hp/8a.txt
+
+102 /ELE778_MLP/txt_dist/train/woman/jp/7b.txt
+
+102 /ELE778_MLP/txt_dist/train/woman/kk/9b.txt
+
+103 /ELE778_MLP/txt_dist/train/man/ae/5b.txt
+
+103 /ELE778_MLP/txt_dist/train/man/ae/7b.txt
+
+103 /ELE778_MLP/txt_dist/train/man/cf/9a.txt
+
+103 /ELE778_MLP/txt_dist/train/man/dn/7b.txt
+
+103 /ELE778_MLP/txt_dist/train/man/fc/1b.txt
+
+103 /ELE778_MLP/txt_dist/train/man/fj/3b.txt
+
+103 /ELE778_MLP/txt_dist/train/man/gg/6b.txt
+
+103 /ELE778_MLP/txt_dist/train/man/gr/1b.txt
+
+103 /ELE778_MLP/txt_dist/train/man/gr/5b.txt
+
+103 /ELE778_MLP/txt_dist/train/man/gr/7b.txt
+
+103 /ELE778_MLP/txt_dist/train/man/hn/ob.txt
+
+103 /ELE778_MLP/txt_dist/train/man/jr/4a.txt
+
+103 /ELE778_MLP/txt_dist/train/man/jr/8b.txt
+
+103 /ELE778_MLP/txt_dist/train/woman/ca/oa.txt
+
+103 /ELE778_MLP/txt_dist/train/woman/cl/6b.txt
+
+103 /ELE778_MLP/txt_dist/train/woman/dg/3b.txt
+
+103 /ELE778_MLP/txt_dist/train/woman/ec/8a.txt
+
+103 /ELE778_MLP/txt_dist/train/woman/eg/7a.txt
+
+103 /ELE778_MLP/txt_dist/train/woman/ek/7a.txt
+
+103 /ELE778_MLP/txt_dist/train/woman/ji/1b.txt
+
+103 /ELE778_MLP/txt_dist/train/woman/jn/7b.txt
+
+103 /ELE778_MLP/txt_dist/train/woman/jp/4a.txt
+
+103 /ELE778_MLP/txt_dist/train/woman/jp/5b.txt
+
+103 /ELE778_MLP/txt_dist/train/woman/kf/4b.txt
+
+104 /ELE778_MLP/txt_dist/train/man/ae/6a.txt
+
+104 /ELE778_MLP/txt_dist/train/man/al/4a.txt
+
+104 /ELE778_MLP/txt_dist/train/man/al/5a.txt
+
+104 /ELE778_MLP/txt_dist/train/man/dn/7a.txt
+
+104 /ELE778_MLP/txt_dist/train/man/el/6a.txt
+
+104 /ELE778_MLP/txt_dist/train/man/fk/3b.txt
+
+104 /ELE778_MLP/txt_dist/train/man/gr/9a.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/an/8b.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/bh/2a.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/bh/ob.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/br/3a.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/ca/2b.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/cl/2b.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/cl/9b.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/dc/7b.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/dg/4a.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/dg/8a.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/ea/7a.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/ee/7a.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/ek/6b.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/es/7a.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/hp/4b.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/ig/5a.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/ih/ob.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/jp/5a.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/kc/2a.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/kf/3a.txt
+
+104 /ELE778_MLP/txt_dist/train/woman/kf/9b.txt
+
+106 /ELE778_MLP/txt_dist/train/man/ae/6b.txt
+
+106 /ELE778_MLP/txt_dist/train/man/aw/9b.txt
+
+106 /ELE778_MLP/txt_dist/train/man/bd/6b.txt
+
+106 /ELE778_MLP/txt_dist/train/man/fd/7a.txt
+
+106 /ELE778_MLP/txt_dist/train/man/fk/2b.txt
+
+106 /ELE778_MLP/txt_dist/train/man/fl/6a.txt
+
+106 /ELE778_MLP/txt_dist/train/man/gr/4b.txt
+
+106 /ELE778_MLP/txt_dist/train/man/gr/7a.txt
+
+106 /ELE778_MLP/txt_dist/train/man/gr/9b.txt
+
+106 /ELE778_MLP/txt_dist/train/man/gt/9a.txt
+
+106 /ELE778_MLP/txt_dist/train/man/hl/7a.txt
+
+106 /ELE778_MLP/txt_dist/train/man/hn/3a.txt
+
+106 /ELE778_MLP/txt_dist/train/man/if/7b.txt
+
+106 /ELE778_MLP/txt_dist/train/man/jr/6a.txt
+
+106 /ELE778_MLP/txt_dist/train/woman/an/3a.txt
+
+106 /ELE778_MLP/txt_dist/train/woman/bh/6a.txt
+
+106 /ELE778_MLP/txt_dist/train/woman/ca/8a.txt
+
+106 /ELE778_MLP/txt_dist/train/woman/cl/2a.txt
+
+106 /ELE778_MLP/txt_dist/train/woman/dc/6b.txt
+
+106 /ELE778_MLP/txt_dist/train/woman/dc/9b.txt
+
+106 /ELE778_MLP/txt_dist/train/woman/dg/6b.txt
+
+106 /ELE778_MLP/txt_dist/train/woman/dg/9b.txt
+
+106 /ELE778_MLP/txt_dist/train/woman/ee/4b.txt
+
+106 /ELE778_MLP/txt_dist/train/woman/ee/8a.txt
+
+106 /ELE778_MLP/txt_dist/train/woman/ei/6b.txt
+
+106 /ELE778_MLP/txt_dist/train/woman/hg/4a.txt
+
+106 /ELE778_MLP/txt_dist/train/woman/hp/7b.txt
+
+106 /ELE778_MLP/txt_dist/train/woman/ig/1b.txt
+
+106 /ELE778_MLP/txt_dist/train/woman/ih/9a.txt
+
+106 /ELE778_MLP/txt_dist/train/woman/kk/6b.txt
+
+107 /ELE778_MLP/txt_dist/train/man/dn/5b.txt
+
+107 /ELE778_MLP/txt_dist/train/man/fd/5b.txt
+
+107 /ELE778_MLP/txt_dist/train/man/fj/5a.txt
+
+107 /ELE778_MLP/txt_dist/train/man/fj/5b.txt
+
+107 /ELE778_MLP/txt_dist/train/man/gg/5a.txt
+
+107 /ELE778_MLP/txt_dist/train/man/ha/6b.txt
+
+107 /ELE778_MLP/txt_dist/train/man/hl/9a.txt
+
+107 /ELE778_MLP/txt_dist/train/man/ie/1b.txt
+
+107 /ELE778_MLP/txt_dist/train/man/in/9b.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/ai/6b.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/ai/ob.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/an/8a.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/an/9a.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/br/7b.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/ca/3a.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/ca/5a.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/cl/6a.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/cm/3b.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/cm/8a.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/dc/9a.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/dg/1a.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/ec/8b.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/ei/8b.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/ek/9a.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/hg/7b.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/ig/2b.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/ji/1a.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/ji/6a.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/jj/6a.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/jn/6a.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/kf/7a.txt
+
+107 /ELE778_MLP/txt_dist/train/woman/kh/7b.txt
+
+108 /ELE778_MLP/txt_dist/train/man/al/7a.txt
+
+108 /ELE778_MLP/txt_dist/train/man/al/8a.txt
+
+108 /ELE778_MLP/txt_dist/train/man/bd/ob.txt
+
+108 /ELE778_MLP/txt_dist/train/man/cb/6b.txt
+
+108 /ELE778_MLP/txt_dist/train/man/dn/1a.txt
+
+108 /ELE778_MLP/txt_dist/train/man/dn/2a.txt
+
+108 /ELE778_MLP/txt_dist/train/man/dn/9a.txt
+
+108 /ELE778_MLP/txt_dist/train/man/fd/4a.txt
+
+108 /ELE778_MLP/txt_dist/train/man/ff/1a.txt
+
+108 /ELE778_MLP/txt_dist/train/man/fi/3b.txt
+
+108 /ELE778_MLP/txt_dist/train/man/fj/6b.txt
+
+108 /ELE778_MLP/txt_dist/train/man/hl/6a.txt
+
+108 /ELE778_MLP/txt_dist/train/man/hs/3a.txt
+
+108 /ELE778_MLP/txt_dist/train/man/hs/6a.txt
+
+108 /ELE778_MLP/txt_dist/train/man/ie/oa.txt
+
+108 /ELE778_MLP/txt_dist/train/man/if/1b.txt
+
+108 /ELE778_MLP/txt_dist/train/man/in/6b.txt
+
+108 /ELE778_MLP/txt_dist/train/woman/ag/6a.txt
+
+108 /ELE778_MLP/txt_dist/train/woman/ag/6b.txt
+
+108 /ELE778_MLP/txt_dist/train/woman/dg/ob.txt
+
+108 /ELE778_MLP/txt_dist/train/woman/ei/6a.txt
+
+108 /ELE778_MLP/txt_dist/train/woman/ek/5a.txt
+
+108 /ELE778_MLP/txt_dist/train/woman/hp/9b.txt
+
+108 /ELE778_MLP/txt_dist/train/woman/ig/3b.txt
+
+108 /ELE778_MLP/txt_dist/train/woman/ih/oa.txt
+
+108 /ELE778_MLP/txt_dist/train/woman/kc/2b.txt
+
+109 /ELE778_MLP/txt_dist/train/man/al/7b.txt
+
+109 /ELE778_MLP/txt_dist/train/man/bd/6a.txt
+
+109 /ELE778_MLP/txt_dist/train/man/fc/9b.txt
+
+109 /ELE778_MLP/txt_dist/train/man/fk/4b.txt
+
+109 /ELE778_MLP/txt_dist/train/man/hh/6b.txt
+
+109 /ELE778_MLP/txt_dist/train/man/hl/7b.txt
+
+109 /ELE778_MLP/txt_dist/train/man/hs/5a.txt
+
+109 /ELE778_MLP/txt_dist/train/man/ie/2a.txt
+
+109 /ELE778_MLP/txt_dist/train/man/ie/7b.txt
+
+109 /ELE778_MLP/txt_dist/train/man/ie/9a.txt
+
+109 /ELE778_MLP/txt_dist/train/man/ie/9b.txt
+
+109 /ELE778_MLP/txt_dist/train/woman/br/8a.txt
+
+109 /ELE778_MLP/txt_dist/train/woman/br/9a.txt
+
+109 /ELE778_MLP/txt_dist/train/woman/dg/7b.txt
+
+109 /ELE778_MLP/txt_dist/train/woman/ec/7a.txt
+
+109 /ELE778_MLP/txt_dist/train/woman/ee/6a.txt
+
+109 /ELE778_MLP/txt_dist/train/woman/ek/8b.txt
+
+109 /ELE778_MLP/txt_dist/train/woman/es/5a.txt
+
+109 /ELE778_MLP/txt_dist/train/woman/hp/5b.txt
+
+109 /ELE778_MLP/txt_dist/train/woman/ig/oa.txt
+
+109 /ELE778_MLP/txt_dist/train/woman/ih/9b.txt
+
+111 /ELE778_MLP/txt_dist/train/man/al/9b.txt
+
+111 /ELE778_MLP/txt_dist/train/man/gg/9b.txt
+
+111 /ELE778_MLP/txt_dist/train/man/gj/6a.txt
+
+111 /ELE778_MLP/txt_dist/train/man/gt/3a.txt
+
+111 /ELE778_MLP/txt_dist/train/man/gt/6a.txt
+
+111 /ELE778_MLP/txt_dist/train/man/hh/5a.txt
+
+111 /ELE778_MLP/txt_dist/train/woman/ac/6b.txt
+
+111 /ELE778_MLP/txt_dist/train/woman/an/1b.txt
+
+111 /ELE778_MLP/txt_dist/train/woman/an/5b.txt
+
+111 /ELE778_MLP/txt_dist/train/woman/an/9b.txt
+
+111 /ELE778_MLP/txt_dist/train/woman/ca/4a.txt
+
+111 /ELE778_MLP/txt_dist/train/woman/ca/7b.txt
+
+111 /ELE778_MLP/txt_dist/train/woman/cl/ob.txt
+
+111 /ELE778_MLP/txt_dist/train/woman/cm/7a.txt
+
+111 /ELE778_MLP/txt_dist/train/woman/hp/3a.txt
+
+111 /ELE778_MLP/txt_dist/train/woman/hp/ob.txt
+
+111 /ELE778_MLP/txt_dist/train/woman/jc/7a.txt
+
+111 /ELE778_MLP/txt_dist/train/woman/ji/3a.txt
+
+111 /ELE778_MLP/txt_dist/train/woman/ji/5a.txt
+
+111 /ELE778_MLP/txt_dist/train/woman/kc/9b.txt
+
+111 /ELE778_MLP/txt_dist/train/woman/kf/1a.txt
+
+112 /ELE778_MLP/txt_dist/train/man/ae/7a.txt
+
+112 /ELE778_MLP/txt_dist/train/man/aw/6b.txt
+
+112 /ELE778_MLP/txt_dist/train/man/aw/8a.txt
+
+112 /ELE778_MLP/txt_dist/train/man/cb/4a.txt
+
+112 /ELE778_MLP/txt_dist/train/man/fc/2b.txt
+
+112 /ELE778_MLP/txt_dist/train/man/fj/7b.txt
+
+112 /ELE778_MLP/txt_dist/train/man/gt/6b.txt
+
+112 /ELE778_MLP/txt_dist/train/man/hl/4a.txt
+
+112 /ELE778_MLP/txt_dist/train/woman/an/3b.txt
+
+112 /ELE778_MLP/txt_dist/train/woman/an/7b.txt
+
+112 /ELE778_MLP/txt_dist/train/woman/bi/8a.txt
+
+112 /ELE778_MLP/txt_dist/train/woman/ca/5b.txt
+
+112 /ELE778_MLP/txt_dist/train/woman/cl/8b.txt
+
+112 /ELE778_MLP/txt_dist/train/woman/cm/4a.txt
+
+112 /ELE778_MLP/txt_dist/train/woman/dg/6a.txt
+
+112 /ELE778_MLP/txt_dist/train/woman/ec/7b.txt
+
+112 /ELE778_MLP/txt_dist/train/woman/hp/6b.txt
+
+112 /ELE778_MLP/txt_dist/train/woman/ig/9b.txt
+
+112 /ELE778_MLP/txt_dist/train/woman/jj/5b.txt
+
+112 /ELE778_MLP/txt_dist/train/woman/jp/6a.txt
+
+112 /ELE778_MLP/txt_dist/train/woman/jp/6b.txt
+
+112 /ELE778_MLP/txt_dist/train/woman/jp/9b.txt
+
+112 /ELE778_MLP/txt_dist/train/woman/kf/6b.txt
+
+113 /ELE778_MLP/txt_dist/train/man/dl/6b.txt
+
+113 /ELE778_MLP/txt_dist/train/man/dn/4b.txt
+
+113 /ELE778_MLP/txt_dist/train/man/fi/6a.txt
+
+113 /ELE778_MLP/txt_dist/train/man/fi/ob.txt
+
+113 /ELE778_MLP/txt_dist/train/man/fj/9a.txt
+
+113 /ELE778_MLP/txt_dist/train/man/fk/9b.txt
+
+113 /ELE778_MLP/txt_dist/train/man/hl/1a.txt
+
+113 /ELE778_MLP/txt_dist/train/man/ie/8a.txt
+
+113 /ELE778_MLP/txt_dist/train/man/if/6b.txt
+
+113 /ELE778_MLP/txt_dist/train/woman/bi/3b.txt
+
+113 /ELE778_MLP/txt_dist/train/woman/ca/8b.txt
+
+113 /ELE778_MLP/txt_dist/train/woman/cg/6a.txt
+
+113 /ELE778_MLP/txt_dist/train/woman/dc/5b.txt
+
+113 /ELE778_MLP/txt_dist/train/woman/ei/4b.txt
+
+113 /ELE778_MLP/txt_dist/train/woman/es/7b.txt
+
+113 /ELE778_MLP/txt_dist/train/woman/ih/6a.txt
+
+113 /ELE778_MLP/txt_dist/train/woman/ji/9a.txt
+
+114 /ELE778_MLP/txt_dist/train/man/dn/1b.txt
+
+114 /ELE778_MLP/txt_dist/train/man/eh/4a.txt
+
+114 /ELE778_MLP/txt_dist/train/man/fc/6b.txt
+
+114 /ELE778_MLP/txt_dist/train/man/fl/6b.txt
+
+114 /ELE778_MLP/txt_dist/train/man/gr/6a.txt
+
+114 /ELE778_MLP/txt_dist/train/man/hh/7b.txt
+
+114 /ELE778_MLP/txt_dist/train/man/ie/4b.txt
+
+114 /ELE778_MLP/txt_dist/train/woman/br/1a.txt
+
+114 /ELE778_MLP/txt_dist/train/woman/cm/8b.txt
+
+114 /ELE778_MLP/txt_dist/train/woman/ec/6a.txt
+
+114 /ELE778_MLP/txt_dist/train/woman/ig/3a.txt
+
+114 /ELE778_MLP/txt_dist/train/woman/ig/6b.txt
+
+114 /ELE778_MLP/txt_dist/train/woman/jc/6b.txt
+
+114 /ELE778_MLP/txt_dist/train/woman/ji/7a.txt
+
+114 /ELE778_MLP/txt_dist/train/woman/kf/5a.txt
+
+114 /ELE778_MLP/txt_dist/train/woman/kh/6a.txt
+
+116 /ELE778_MLP/txt_dist/train/man/al/6b.txt
+
+116 /ELE778_MLP/txt_dist/train/man/bd/3a.txt
+
+116 /ELE778_MLP/txt_dist/train/man/cb/1a.txt
+
+116 /ELE778_MLP/txt_dist/train/man/fd/6a.txt
+
+116 /ELE778_MLP/txt_dist/train/man/fd/6b.txt
+
+116 /ELE778_MLP/txt_dist/train/man/fi/7b.txt
+
+116 /ELE778_MLP/txt_dist/train/man/fj/6a.txt
+
+116 /ELE778_MLP/txt_dist/train/man/fk/4a.txt
+
+116 /ELE778_MLP/txt_dist/train/man/gg/1a.txt
+
+116 /ELE778_MLP/txt_dist/train/man/gg/1b.txt
+
+116 /ELE778_MLP/txt_dist/train/man/hs/4a.txt
+
+116 /ELE778_MLP/txt_dist/train/man/if/9b.txt
+
+116 /ELE778_MLP/txt_dist/train/man/jr/6b.txt
+
+116 /ELE778_MLP/txt_dist/train/woman/an/6a.txt
+
+116 /ELE778_MLP/txt_dist/train/woman/es/6b.txt
+
+116 /ELE778_MLP/txt_dist/train/woman/hg/2a.txt
+
+116 /ELE778_MLP/txt_dist/train/woman/hg/3b.txt
+
+116 /ELE778_MLP/txt_dist/train/woman/ig/7a.txt
+
+116 /ELE778_MLP/txt_dist/train/woman/ih/6b.txt
+
+116 /ELE778_MLP/txt_dist/train/woman/jc/6a.txt
+
+116 /ELE778_MLP/txt_dist/train/woman/ji/6b.txt
+
+116 /ELE778_MLP/txt_dist/train/woman/jp/9a.txt
+
+116 /ELE778_MLP/txt_dist/train/woman/kc/8a.txt
+
+116 /ELE778_MLP/txt_dist/train/woman/kf/3b.txt
+
+117 /ELE778_MLP/txt_dist/train/man/el/1a.txt
+
+117 /ELE778_MLP/txt_dist/train/man/fc/3b.txt
+
+117 /ELE778_MLP/txt_dist/train/man/fc/4a.txt
+
+117 /ELE778_MLP/txt_dist/train/man/gj/6b.txt
+
+117 /ELE778_MLP/txt_dist/train/man/gr/6b.txt
+
+117 /ELE778_MLP/txt_dist/train/man/hs/6b.txt
+
+117 /ELE778_MLP/txt_dist/train/woman/br/8b.txt
+
+117 /ELE778_MLP/txt_dist/train/woman/ca/9b.txt
+
+117 /ELE778_MLP/txt_dist/train/woman/cm/4b.txt
+
+117 /ELE778_MLP/txt_dist/train/woman/ee/4a.txt
+
+117 /ELE778_MLP/txt_dist/train/woman/hg/5b.txt
+
+117 /ELE778_MLP/txt_dist/train/woman/hg/8a.txt
+
+117 /ELE778_MLP/txt_dist/train/woman/ig/4b.txt
+
+117 /ELE778_MLP/txt_dist/train/woman/ig/7b.txt
+
+117 /ELE778_MLP/txt_dist/train/woman/jj/6b.txt
+
+117 /ELE778_MLP/txt_dist/train/woman/jn/7a.txt
+
+117 /ELE778_MLP/txt_dist/train/woman/jp/3b.txt
+
+117 /ELE778_MLP/txt_dist/train/woman/kc/4a.txt
+
+118 /ELE778_MLP/txt_dist/train/man/cb/3a.txt
+
+118 /ELE778_MLP/txt_dist/train/man/dn/5a.txt
+
+118 /ELE778_MLP/txt_dist/train/man/dn/6b.txt
+
+118 /ELE778_MLP/txt_dist/train/man/fc/7b.txt
+
+118 /ELE778_MLP/txt_dist/train/man/fi/4a.txt
+
+118 /ELE778_MLP/txt_dist/train/man/gg/4b.txt
+
+118 /ELE778_MLP/txt_dist/train/man/hn/5b.txt
+
+118 /ELE778_MLP/txt_dist/train/woman/br/2a.txt
+
+118 /ELE778_MLP/txt_dist/train/woman/ca/7a.txt
+
+118 /ELE778_MLP/txt_dist/train/woman/ih/7a.txt
+
+120 /ELE778_MLP/txt_dist/train/man/dl/6a.txt
+
+120 /ELE778_MLP/txt_dist/train/man/dn/9b.txt
+
+120 /ELE778_MLP/txt_dist/train/man/fi/5b.txt
+
+120 /ELE778_MLP/txt_dist/train/man/hn/1a.txt
+
+120 /ELE778_MLP/txt_dist/train/woman/an/4a.txt
+
+120 /ELE778_MLP/txt_dist/train/woman/br/7a.txt
+
+120 /ELE778_MLP/txt_dist/train/woman/ca/6a.txt
+
+120 /ELE778_MLP/txt_dist/train/woman/cl/4b.txt
+
+120 /ELE778_MLP/txt_dist/train/woman/cm/5a.txt
+
+120 /ELE778_MLP/txt_dist/train/woman/dc/5a.txt
+
+120 /ELE778_MLP/txt_dist/train/woman/ih/1a.txt
+
+120 /ELE778_MLP/txt_dist/train/woman/ih/5a.txt
+
+121 /ELE778_MLP/txt_dist/train/man/fc/7a.txt
+
+121 /ELE778_MLP/txt_dist/train/man/fc/oa.txt
+
+121 /ELE778_MLP/txt_dist/train/man/fk/5a.txt
+
+121 /ELE778_MLP/txt_dist/train/man/ie/3a.txt
+
+121 /ELE778_MLP/txt_dist/train/woman/bi/5b.txt
+
+121 /ELE778_MLP/txt_dist/train/woman/br/1b.txt
+
+121 /ELE778_MLP/txt_dist/train/woman/ee/9a.txt
+
+121 /ELE778_MLP/txt_dist/train/woman/hg/6a.txt
+
+121 /ELE778_MLP/txt_dist/train/woman/hp/5a.txt
+
+121 /ELE778_MLP/txt_dist/train/woman/hp/6a.txt
+
+121 /ELE778_MLP/txt_dist/train/woman/jp/8a.txt
+
+121 /ELE778_MLP/txt_dist/train/woman/kc/8b.txt
+
+121 /ELE778_MLP/txt_dist/train/woman/kc/9a.txt
+
+121 /ELE778_MLP/txt_dist/train/woman/kf/9a.txt
+
+121 /ELE778_MLP/txt_dist/train/woman/kh/6b.txt
+
+122 /ELE778_MLP/txt_dist/train/man/cb/9a.txt
+
+122 /ELE778_MLP/txt_dist/train/man/eh/ob.txt
+
+122 /ELE778_MLP/txt_dist/train/man/fk/7b.txt
+
+122 /ELE778_MLP/txt_dist/train/man/gt/5a.txt
+
+122 /ELE778_MLP/txt_dist/train/man/hl/6b.txt
+
+122 /ELE778_MLP/txt_dist/train/woman/br/4a.txt
+
+122 /ELE778_MLP/txt_dist/train/woman/ca/1b.txt
+
+122 /ELE778_MLP/txt_dist/train/woman/cl/4a.txt
+
+122 /ELE778_MLP/txt_dist/train/woman/cm/5b.txt
+
+122 /ELE778_MLP/txt_dist/train/woman/cm/ob.txt
+
+122 /ELE778_MLP/txt_dist/train/woman/ee/6b.txt
+
+122 /ELE778_MLP/txt_dist/train/woman/jc/2a.txt
+
+122 /ELE778_MLP/txt_dist/train/woman/kc/1a.txt
+
+122 /ELE778_MLP/txt_dist/train/woman/kc/3a.txt
+
+122 /ELE778_MLP/txt_dist/train/woman/kc/3b.txt
+
+122 /ELE778_MLP/txt_dist/train/woman/kc/4b.txt
+
+123 /ELE778_MLP/txt_dist/train/man/aw/5a.txt
+
+123 /ELE778_MLP/txt_dist/train/man/fi/6b.txt
+
+123 /ELE778_MLP/txt_dist/train/man/fk/9a.txt
+
+123 /ELE778_MLP/txt_dist/train/man/ie/3b.txt
+
+123 /ELE778_MLP/txt_dist/train/man/ie/5a.txt
+
+123 /ELE778_MLP/txt_dist/train/man/ie/6b.txt
+
+123 /ELE778_MLP/txt_dist/train/woman/br/6b.txt
+
+123 /ELE778_MLP/txt_dist/train/woman/kf/6a.txt
+
+125 /ELE778_MLP/txt_dist/train/man/al/6a.txt
+
+125 /ELE778_MLP/txt_dist/train/man/fk/6a.txt
+
+125 /ELE778_MLP/txt_dist/train/man/hl/5b.txt
+
+125 /ELE778_MLP/txt_dist/train/woman/cl/7a.txt
+
+125 /ELE778_MLP/txt_dist/train/woman/dc/6a.txt
+
+125 /ELE778_MLP/txt_dist/train/woman/jp/7a.txt
+
+126 /ELE778_MLP/txt_dist/train/man/gj/7b.txt
+
+126 /ELE778_MLP/txt_dist/train/man/hn/9b.txt
+
+126 /ELE778_MLP/txt_dist/train/woman/bi/6b.txt
+
+126 /ELE778_MLP/txt_dist/train/woman/br/5a.txt
+
+126 /ELE778_MLP/txt_dist/train/woman/kc/1b.txt
+
+127 /ELE778_MLP/txt_dist/train/man/cb/7a.txt
+
+127 /ELE778_MLP/txt_dist/train/man/fc/5b.txt
+
+127 /ELE778_MLP/txt_dist/train/man/fk/5b.txt
+
+127 /ELE778_MLP/txt_dist/train/man/fk/6b.txt
+
+127 /ELE778_MLP/txt_dist/train/man/gr/5a.txt
+
+127 /ELE778_MLP/txt_dist/train/man/in/7b.txt
+
+127 /ELE778_MLP/txt_dist/train/woman/an/5a.txt
+
+127 /ELE778_MLP/txt_dist/train/woman/br/6a.txt
+
+127 /ELE778_MLP/txt_dist/train/woman/cg/6b.txt
+
+129 /ELE778_MLP/txt_dist/train/woman/ca/6b.txt
+
+129 /ELE778_MLP/txt_dist/train/woman/ca/9a.txt
+
+129 /ELE778_MLP/txt_dist/train/woman/cm/3a.txt
+
+130 /ELE778_MLP/txt_dist/train/man/aw/6a.txt
+
+130 /ELE778_MLP/txt_dist/train/man/eh/6a.txt
+
+130 /ELE778_MLP/txt_dist/train/man/fd/5a.txt
+
+130 /ELE778_MLP/txt_dist/train/woman/an/6b.txt
+
+130 /ELE778_MLP/txt_dist/train/woman/bi/6a.txt
+
+130 /ELE778_MLP/txt_dist/train/woman/eg/2a.txt
+
+130 /ELE778_MLP/txt_dist/train/woman/ig/4a.txt
+
+131 /ELE778_MLP/txt_dist/train/man/ie/5b.txt
+
+131 /ELE778_MLP/txt_dist/train/man/ie/6a.txt
+
+131 /ELE778_MLP/txt_dist/train/woman/cl/5a.txt
+
+131 /ELE778_MLP/txt_dist/train/woman/hg/6b.txt
+
+132 /ELE778_MLP/txt_dist/train/woman/ai/6a.txt
+
+132 /ELE778_MLP/txt_dist/train/woman/br/4b.txt
+
+132 /ELE778_MLP/txt_dist/train/woman/ig/5b.txt
+
+132 /ELE778_MLP/txt_dist/train/woman/kc/5a.txt
+
+134 /ELE778_MLP/txt_dist/train/man/dn/6a.txt
+
+135 /ELE778_MLP/txt_dist/train/woman/kc/7b.txt
+
+136 /ELE778_MLP/txt_dist/train/woman/kc/7a.txt
+
+138 /ELE778_MLP/txt_dist/train/man/in/1b.txt
+
+138 /ELE778_MLP/txt_dist/train/woman/cm/6b.txt
+
+138 /ELE778_MLP/txt_dist/train/woman/es/6a.txt
+
+138 /ELE778_MLP/txt_dist/train/woman/ih/7b.txt
+
+138 /ELE778_MLP/txt_dist/train/woman/kc/5b.txt
+
+138 /ELE778_MLP/txt_dist/train/woman/kc/6b.txt
+
+139 /ELE778_MLP/txt_dist/train/man/cb/6a.txt
+
+139 /ELE778_MLP/txt_dist/train/woman/cm/6a.txt
+
+140 /ELE778_MLP/txt_dist/train/man/fc/5a.txt
+
+141 /ELE778_MLP/txt_dist/train/man/fd/4b.txt
+
+143 /ELE778_MLP/txt_dist/train/man/fc/6a.txt
+
+143 /ELE778_MLP/txt_dist/train/man/ie/1a.txt
+
+144 /ELE778_MLP/txt_dist/train/woman/kc/6a.txt
+
+148 /ELE778_MLP/txt_dist/train/woman/br/5b.txt
+
+152 /ELE778_MLP/txt_dist/train/man/al/5b.txt
+
+152 /ELE778_MLP/txt_dist/train/man/fd/7b.txt
+
+154 /ELE778_MLP/txt_dist/train/woman/cl/5b.txt
+
+159 /ELE778_MLP/txt_dist/train/woman/ig/6a.txt
+
+162 /ELE778_MLP/txt_dist/train/woman/ih/3b.txt
+
+170 /ELE778_MLP/txt_dist/train/man/fd/2b.txt
+
+171 /ELE778_MLP/txt_dist/train/woman/dg/8b.txt
+
+176 /ELE778_MLP/txt_dist/train/man/fd/2a.txt
+
+180 /ELE778_MLP/txt_dist/train/woman/cl/3a.txt
+
+181 /ELE778_MLP/txt_dist/train/woman/ih/3a.txt
+
+193 /ELE778_MLP/txt_dist/train/woman/dc/1a.txt
+

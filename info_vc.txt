@@ -1,0 +1,240 @@
+66 /ELE778_MLP/txt_dist/vc/man/kd/2a.txt
+
+72 /ELE778_MLP/txt_dist/vc/man/jt/2b.txt
+
+72 /ELE778_MLP/txt_dist/vc/man/jt/ob.txt
+
+74 /ELE778_MLP/txt_dist/vc/man/jt/2a.txt
+
+74 /ELE778_MLP/txt_dist/vc/woman/kn/8b.txt
+
+75 /ELE778_MLP/txt_dist/vc/woman/kn/2b.txt
+
+76 /ELE778_MLP/txt_dist/vc/man/kp/2a.txt
+
+77 /ELE778_MLP/txt_dist/vc/man/jt/1a.txt
+
+77 /ELE778_MLP/txt_dist/vc/man/kd/3a.txt
+
+77 /ELE778_MLP/txt_dist/vc/woman/kt/8b.txt
+
+79 /ELE778_MLP/txt_dist/vc/man/kd/1a.txt
+
+79 /ELE778_MLP/txt_dist/vc/man/kd/1b.txt
+
+79 /ELE778_MLP/txt_dist/vc/man/kd/2b.txt
+
+79 /ELE778_MLP/txt_dist/vc/man/kd/4a.txt
+
+79 /ELE778_MLP/txt_dist/vc/man/kd/4b.txt
+
+79 /ELE778_MLP/txt_dist/vc/man/kd/ob.txt
+
+79 /ELE778_MLP/txt_dist/vc/man/kp/8a.txt
+
+79 /ELE778_MLP/txt_dist/vc/woman/kn/4a.txt
+
+79 /ELE778_MLP/txt_dist/vc/woman/kt/4a.txt
+
+79 /ELE778_MLP/txt_dist/vc/woman/la/oa.txt
+
+80 /ELE778_MLP/txt_dist/vc/woman/la/2b.txt
+
+81 /ELE778_MLP/txt_dist/vc/man/jt/3a.txt
+
+81 /ELE778_MLP/txt_dist/vc/man/kp/4b.txt
+
+81 /ELE778_MLP/txt_dist/vc/woman/kn/9b.txt
+
+81 /ELE778_MLP/txt_dist/vc/woman/la/ob.txt
+
+82 /ELE778_MLP/txt_dist/vc/man/jt/3b.txt
+
+82 /ELE778_MLP/txt_dist/vc/man/kd/3b.txt
+
+82 /ELE778_MLP/txt_dist/vc/man/kd/oa.txt
+
+82 /ELE778_MLP/txt_dist/vc/man/kp/4a.txt
+
+82 /ELE778_MLP/txt_dist/vc/woman/kt/1a.txt
+
+82 /ELE778_MLP/txt_dist/vc/woman/kt/1b.txt
+
+84 /ELE778_MLP/txt_dist/vc/man/kd/8a.txt
+
+84 /ELE778_MLP/txt_dist/vc/man/kd/8b.txt
+
+84 /ELE778_MLP/txt_dist/vc/man/kp/ob.txt
+
+84 /ELE778_MLP/txt_dist/vc/woman/la/4b.txt
+
+85 /ELE778_MLP/txt_dist/vc/man/kp/2b.txt
+
+85 /ELE778_MLP/txt_dist/vc/woman/kn/ob.txt
+
+85 /ELE778_MLP/txt_dist/vc/woman/kt/2a.txt
+
+86 /ELE778_MLP/txt_dist/vc/man/kp/oa.txt
+
+86 /ELE778_MLP/txt_dist/vc/woman/kn/8a.txt
+
+86 /ELE778_MLP/txt_dist/vc/woman/kn/oa.txt
+
+86 /ELE778_MLP/txt_dist/vc/woman/kt/2b.txt
+
+88 /ELE778_MLP/txt_dist/vc/woman/kt/3a.txt
+
+89 /ELE778_MLP/txt_dist/vc/man/jt/7a.txt
+
+89 /ELE778_MLP/txt_dist/vc/man/kd/5a.txt
+
+89 /ELE778_MLP/txt_dist/vc/woman/la/8b.txt
+
+90 /ELE778_MLP/txt_dist/vc/man/jt/8a.txt
+
+90 /ELE778_MLP/txt_dist/vc/man/jt/8b.txt
+
+90 /ELE778_MLP/txt_dist/vc/man/kp/5a.txt
+
+90 /ELE778_MLP/txt_dist/vc/woman/kt/8a.txt
+
+90 /ELE778_MLP/txt_dist/vc/woman/la/3a.txt
+
+91 /ELE778_MLP/txt_dist/vc/man/kd/7a.txt
+
+93 /ELE778_MLP/txt_dist/vc/man/jt/5a.txt
+
+93 /ELE778_MLP/txt_dist/vc/man/kd/9a.txt
+
+93 /ELE778_MLP/txt_dist/vc/man/kd/9b.txt
+
+93 /ELE778_MLP/txt_dist/vc/man/kp/9b.txt
+
+93 /ELE778_MLP/txt_dist/vc/woman/kt/5a.txt
+
+93 /ELE778_MLP/txt_dist/vc/woman/kt/9a.txt
+
+94 /ELE778_MLP/txt_dist/vc/man/kp/1a.txt
+
+94 /ELE778_MLP/txt_dist/vc/woman/kt/ob.txt
+
+94 /ELE778_MLP/txt_dist/vc/woman/la/5a.txt
+
+94 /ELE778_MLP/txt_dist/vc/woman/la/9b.txt
+
+95 /ELE778_MLP/txt_dist/vc/man/jt/9b.txt
+
+95 /ELE778_MLP/txt_dist/vc/man/kd/7b.txt
+
+95 /ELE778_MLP/txt_dist/vc/man/kp/3a.txt
+
+95 /ELE778_MLP/txt_dist/vc/man/kp/7a.txt
+
+95 /ELE778_MLP/txt_dist/vc/man/kp/9a.txt
+
+95 /ELE778_MLP/txt_dist/vc/woman/la/7a.txt
+
+97 /ELE778_MLP/txt_dist/vc/man/kd/5b.txt
+
+97 /ELE778_MLP/txt_dist/vc/woman/la/4a.txt
+
+98 /ELE778_MLP/txt_dist/vc/man/kp/1b.txt
+
+98 /ELE778_MLP/txt_dist/vc/woman/kn/1b.txt
+
+99 /ELE778_MLP/txt_dist/vc/woman/kt/5b.txt
+
+99 /ELE778_MLP/txt_dist/vc/woman/la/9a.txt
+
+100 /ELE778_MLP/txt_dist/vc/man/kd/6b.txt
+
+100 /ELE778_MLP/txt_dist/vc/man/kp/8b.txt
+
+100 /ELE778_MLP/txt_dist/vc/woman/kn/4b.txt
+
+100 /ELE778_MLP/txt_dist/vc/woman/kn/7b.txt
+
+100 /ELE778_MLP/txt_dist/vc/woman/kt/3b.txt
+
+100 /ELE778_MLP/txt_dist/vc/woman/kt/7b.txt
+
+100 /ELE778_MLP/txt_dist/vc/woman/la/7b.txt
+
+102 /ELE778_MLP/txt_dist/vc/woman/kn/2a.txt
+
+102 /ELE778_MLP/txt_dist/vc/woman/kt/oa.txt
+
+103 /ELE778_MLP/txt_dist/vc/man/kp/3b.txt
+
+103 /ELE778_MLP/txt_dist/vc/man/kp/6b.txt
+
+103 /ELE778_MLP/txt_dist/vc/woman/kn/3a.txt
+
+103 /ELE778_MLP/txt_dist/vc/woman/kn/5a.txt
+
+103 /ELE778_MLP/txt_dist/vc/woman/kn/7a.txt
+
+103 /ELE778_MLP/txt_dist/vc/woman/kt/7a.txt
+
+103 /ELE778_MLP/txt_dist/vc/woman/la/3b.txt
+
+103 /ELE778_MLP/txt_dist/vc/woman/la/6b.txt
+
+104 /ELE778_MLP/txt_dist/vc/woman/kt/9b.txt
+
+106 /ELE778_MLP/txt_dist/vc/man/jt/9a.txt
+
+106 /ELE778_MLP/txt_dist/vc/man/kd/6a.txt
+
+106 /ELE778_MLP/txt_dist/vc/woman/kn/1a.txt
+
+106 /ELE778_MLP/txt_dist/vc/woman/kn/5b.txt
+
+106 /ELE778_MLP/txt_dist/vc/woman/kt/4b.txt
+
+106 /ELE778_MLP/txt_dist/vc/woman/la/1b.txt
+
+106 /ELE778_MLP/txt_dist/vc/woman/la/6a.txt
+
+108 /ELE778_MLP/txt_dist/vc/woman/kn/6a.txt
+
+108 /ELE778_MLP/txt_dist/vc/woman/la/1a.txt
+
+108 /ELE778_MLP/txt_dist/vc/woman/la/8a.txt
+
+111 /ELE778_MLP/txt_dist/vc/man/jt/1b.txt
+
+112 /ELE778_MLP/txt_dist/vc/man/jt/5b.txt
+
+112 /ELE778_MLP/txt_dist/vc/man/kp/6a.txt
+
+112 /ELE778_MLP/txt_dist/vc/woman/kt/6b.txt
+
+112 /ELE778_MLP/txt_dist/vc/woman/la/2a.txt
+
+113 /ELE778_MLP/txt_dist/vc/man/kp/5b.txt
+
+113 /ELE778_MLP/txt_dist/vc/woman/kn/3b.txt
+
+116 /ELE778_MLP/txt_dist/vc/man/jt/4b.txt
+
+116 /ELE778_MLP/txt_dist/vc/man/jt/oa.txt
+
+117 /ELE778_MLP/txt_dist/vc/woman/kn/6b.txt
+
+122 /ELE778_MLP/txt_dist/vc/man/jt/4a.txt
+
+126 /ELE778_MLP/txt_dist/vc/woman/la/5b.txt
+
+129 /ELE778_MLP/txt_dist/vc/man/jt/6a.txt
+
+132 /ELE778_MLP/txt_dist/vc/woman/kt/6a.txt
+
+135 /ELE778_MLP/txt_dist/vc/woman/kn/9a.txt
+
+138 /ELE778_MLP/txt_dist/vc/man/jt/6b.txt
+
+155 /ELE778_MLP/txt_dist/vc/man/jt/7b.txt
+
+158 /ELE778_MLP/txt_dist/vc/man/kp/7b.txt
+
