@@ -24,15 +24,20 @@ from random import randrange
 testFile = 'info_test.txt'
 trainFile = 'info_train.txt'
 validationFile = 'info_vc.txt'
+config = 'Configuration.txt'
 nubArray = []
 lineArray = []
 ####################################################################################################
 
-# Demande à l'utislisateur le nimbre d'entrée désirée
-nbrEntree = int(input("Entrée le nombre d'entrée désiré: "))
+# Demande à l'utilisateur le nombre d'entrée désirée
+with open(config) as entree:
+    nbrEntree = int(entree.readlines()[1])
+    print nbrEntree
+
+#nbrEntree = int(input("Entrée le nombre d'entrée désiré: "))
 
 # Ouvre le fichier validation file et lit les adresses des fichiers de données
-with open(validationFile) as f:
+with open(trainFile) as f:
     line = f.readline()
     # Sépare chaque termes de l'adresse de données
     while line:
