@@ -32,7 +32,6 @@ lineArray = []
 # Demande à l'utilisateur le nombre d'entrée désirée
 with open(config) as entree:
     nbrEntree = int(entree.readlines()[1])
-    print nbrEntree
 
 #nbrEntree = int(input("Entrée le nombre d'entrée désiré: "))
 
@@ -48,7 +47,6 @@ def adapt(fichier):
             # Si le nombre de donnée dans le fichier est supérieur au nombre d'entrée demandé
             if int(words[0]) > nbrEntree:
                 ecart = int(words[0])-nbrEntree
-                print 'plus grand'
                 # ouvre le chemins des données et lit cahque lignes
                 with open(words[1]) as f2:
                     line2 = f2.readline()
@@ -82,7 +80,6 @@ def adapt(fichier):
                     del lineArray[:]
             # Si le nombre de donnée dans le fichier est inférieur au nombre d'entrée demandé
             elif int(words[0]) < nbrEntree:
-                print 'plus petit'
                 # crée trois tableaux vide
                 a = []
                 b = []
@@ -137,7 +134,6 @@ def adapt(fichier):
             # Si le nombre de données dans le fichier est égale au nombre de données souhaité
             # alors le code ouvre le fichier "temp" avec la même adresse de départ afins de mettre la base de donnés
             else:
-                print 'egal'
                 with open(words[1]) as f2:
                     with open('temp/' + words[1], 'w') as f3:
                         for line in f2:
